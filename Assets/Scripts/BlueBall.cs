@@ -40,13 +40,8 @@ public class BlueBall : MonoBehaviour
             Debug.Log("Blue ball clicked");
 
             // Spawn 2 random balls
-            _collectableSpawner.SpawnCollectable(
-                (Vector2)transform.position + Vector2.left * 0.5f
-            );
-
-            _collectableSpawner.SpawnCollectable(
-                (Vector2)transform.position + Vector2.right * 0.5f
-            );
+            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable();
 
             // Destroy blue ball
             Destroy(gameObject);

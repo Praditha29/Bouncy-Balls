@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4907411764981936428}
   - component: {fileID: 2172020945051588826}
   - component: {fileID: 4291446856265684257}
-  - component: {fileID: 8844124565975217962}
+  - component: {fileID: 9178769593495105852}
   m_Layer: 0
   m_Name: RedBall
   m_TagString: Untagged
@@ -157,7 +157,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &8844124565975217962
+--- !u!114 &9178769593495105852
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -166,6 +166,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 7075335312877754303}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf7ba3713ea48c140993ca65acc1a943, type: 3}
+  m_Script: {fileID: 11500000, guid: 7c0cc08c1085a594bb1ca2d26d9c8da1, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ball
+  m_EditorClassIdentifier: Assembly-CSharp::RedBall

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 924444789301651442}
   - component: {fileID: 4809725741644552055}
   - component: {fileID: 1725257703416007430}
-  - component: {fileID: 3512581095026550186}
+  - component: {fileID: 9184589204516680674}
   m_Layer: 0
   m_Name: GreenBall
   m_TagString: Untagged
@@ -157,7 +157,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &3512581095026550186
+--- !u!114 &9184589204516680674
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -166,6 +166,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 4840660710448301797}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf7ba3713ea48c140993ca65acc1a943, type: 3}
+  m_Script: {fileID: 11500000, guid: 70a9a08970b53e941a51ea772204f176, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Ball
+  m_EditorClassIdentifier: Assembly-CSharp::GreenBall
