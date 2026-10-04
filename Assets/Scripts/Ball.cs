@@ -12,10 +12,13 @@ public class Ball : MonoBehaviour
             CheckClick(Touchscreen.current.primaryTouch.position.ReadValue());
     }
 
-    void CheckClick(Vector2 position)
+    
+    void CheckClick(Vector2 position) //takes screen position where the player touched
     {
+        //convert screen position to game world position
         Vector2 worldPosition = Camera.main.ScreenToWorldPoint(position);
 
+        //checks for 2d collider at the point where player touched
         if (Physics2D.OverlapPoint(worldPosition) == GetComponent<Collider2D>())
         {
             Debug.Log("clicked");
