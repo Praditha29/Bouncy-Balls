@@ -5,6 +5,9 @@ public class BlueBall : MonoBehaviour
 {
     private CollectibleSpawner _collectableSpawner;
     private Collider2D ballCollider;
+
+    [SerializeField]
+    private int spawnAmount = 4;
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -45,10 +48,8 @@ public class BlueBall : MonoBehaviour
             _collectableSpawner.BallPopped();
 
             // Spawn 2 random balls
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable(spawnAmount);
+            
 
             // Destroy blue ball
             Destroy(gameObject);

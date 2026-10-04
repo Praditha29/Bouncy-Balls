@@ -6,6 +6,9 @@ public class PurpleBall : MonoBehaviour
     private CollectibleSpawner _collectableSpawner;
     private Collider2D ballCollider;
 
+    [SerializeField]
+    private int spawnAmount = 3;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -47,10 +50,8 @@ public class PurpleBall : MonoBehaviour
 
 
             // Spawn 3 random balls
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable(spawnAmount);
+          
 
             // Destroy purple ball
             Destroy(gameObject);

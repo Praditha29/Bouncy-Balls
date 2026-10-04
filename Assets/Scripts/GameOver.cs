@@ -4,58 +4,78 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
     [SerializeField]
-    private GameObject youLostText;
+    private BoxCollider2D playableArea;
+
+    [SerializeField]
+    private GameObject gameOverCanvas;
+
+    [SerializeField]
+    private int maxBalls = 20;
+
+    private bool gameOver = false;
 
     [SerializeField]
     private TMPro.TextMeshProUGUI finalScoreText;
 
-    [SerializeField]
-    private TMPro.TextMeshProUGUI highScoreText;
+    //[SerializeField]
+    //private TMPro.TextMeshProUGUI highScoreText;
 
-    private bool gameOver = false;
-
-    private void Awake()
-    {
-        Time.timeScale = 1f;
-    }
 
     private void Start()
     {
-        youLostText.SetActive(false);
+        Time.timeScale = 1f;
+
+        // Hide Game Over Canvas at the start
+        gameOverCanvas.SetActive(false);
     }
+
 
     private void Update()
     {
         if (gameOver)
             return;
 
-        CheckNoBalls();
+        CheckGameOver();
     }
 
-    void CheckNoBalls()
+
+    void CheckGameOver()
     {
-        Collider2D[] allColliders =
-            FindObjectsByType<Collider2D>(
-                FindObjectsSortMode.None
+        // Find all objects inside the playable area
+        Collider2D[] objectsInside =
+            Physics2D.OverlapBoxAll(
+                playableArea.bounds.center,
+                playableArea.bounds.size,
+                0f
             );
 
         int ballCount = 0;
 
-        foreach (Collider2D col in allColliders)
+        foreach (Collider2D obj in objectsInside)
         {
-            if (col.gameObject.layer ==
+            if (obj.gameObject.layer ==
                 LayerMask.NameToLayer("Ball"))
             {
                 ballCount++;
             }
         }
 
+
+        // No balls left
         if (ballCount == 0)
+        {
+            Lost();
+        }
+
+        // Too many balls
+        else if (ballCount >= maxBalls)
         {
             Lost();
         }
     }
 
+
+    // PUBLIC so CollectibleSpawner can call this
     public void Lost()
     {
         if (gameOver)
@@ -65,30 +85,40 @@ public class GameOver : MonoBehaviour
 
         Debug.Log("GAME OVER!");
 
-        youLostText.SetActive(true);
+
+        // Show entire Game Over Canvas
+        gameOverCanvas.SetActive(true);
+
 
         finalScoreText.text =
             "Score: " +
             ScoreManager.Instance.GetScore();
 
-        highScoreText.text =
-            "High Score: " +
-            ScoreManager.Instance.GetHighScore();
+
+        //highScoreText.text =
+        //    "High Score: " +
+        //    ScoreManager.Instance.GetHighScore();
+
 
         Time.timeScale = 0f;
     }
 
+
     public void Restart()
     {
         Time.timeScale = 1f;
+
         SceneManager.LoadScene("Game");
     }
+
 
     public void MainMenu()
     {
         Time.timeScale = 1f;
+
         SceneManager.LoadScene("MainMenu");
     }
+
 
     public void Exit()
     {

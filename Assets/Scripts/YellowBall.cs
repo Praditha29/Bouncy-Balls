@@ -7,6 +7,9 @@ public class YellowBall : MonoBehaviour
 
     private Collider2D ballCollider;
 
+    [SerializeField]
+    private int spawnAmount = 4;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -52,10 +55,8 @@ public class YellowBall : MonoBehaviour
             //to let the collectable Spawner script know that one ball is popped
             _collectableSpawner.BallPopped();
 
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable(spawnAmount);
+         
 
             Destroy(gameObject);
         }

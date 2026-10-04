@@ -5,6 +5,8 @@ public class GoldBall : MonoBehaviour
 {
     private CollectibleSpawner _collectableSpawner;
     private Collider2D ballCollider;
+    [SerializeField]
+    private int spawnAmount = 5;
 
     private void Awake()
     {
@@ -46,10 +48,8 @@ public class GoldBall : MonoBehaviour
             _collectableSpawner.BallPopped();
 
             // Spawn 4 random balls
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
-            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable(spawnAmount);
+            
 
             // Destroy gold  ball
             Destroy(gameObject);
