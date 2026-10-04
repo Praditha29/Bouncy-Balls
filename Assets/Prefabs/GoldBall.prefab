@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5785570853975724081}
   - component: {fileID: 6613790240146722680}
   - component: {fileID: 4867953074764660063}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GoldBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}

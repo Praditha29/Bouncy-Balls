@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4809725741644552055}
   - component: {fileID: 1725257703416007430}
   - component: {fileID: 9184589204516680674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GreenBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
