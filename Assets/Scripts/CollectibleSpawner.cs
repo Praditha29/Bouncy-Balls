@@ -6,34 +6,134 @@ public class CollectibleSpawner : MonoBehaviour
     private GameObject[] collectablePrefabs;
 
     [SerializeField]
+    private GameObject bombPrefab;
+
+    [SerializeField]
     private BoxCollider2D boundary;
+
+    [SerializeField]
+    private float spawnRadius = 0.5f;
+
+    private int ballsPopped = 0;
+    private int nextBombAt;
+
+
+    int GetBombCount()
+    {
+        BombBall[] bombs =
+            FindObjectsByType<BombBall>(
+                FindObjectsSortMode.None
+            );
+
+        return bombs.Length;
+    }
+
+    private void Start()
+    {
+        SetNextBombCount();
+    }
+
+    public void BallPopped()
+    {
+        ballsPopped++;
+    }
 
     public void SpawnCollectable()
     {
-        // Pick a random ball
-        int index = Random.Range(0, collectablePrefabs.Length);
+        GameObject selectedCollectable;
 
-        GameObject selectedCollectable =
-            collectablePrefabs[index];
+        if (ballsPopped >= nextBombAt && GetBombCount() < 3)
+        {
+            selectedCollectable = bombPrefab;
+            SetNextBombCount();
+        }
+        else
+        {
+            int index = Random.Range(
+                0,
+                collectablePrefabs.Length
+            );
 
-        // Pick a random position inside the boundary
-        float randomX = Random.Range(
-            boundary.bounds.min.x,
-            boundary.bounds.max.x
-        );
+            selectedCollectable = collectablePrefabs[index];
+        }
 
-        float randomY = Random.Range(
-            boundary.bounds.min.y,
-            boundary.bounds.max.y
-        );
+        if (TryGetValidSpawnPosition(out Vector2 spawnPosition))
+        {
+            Instantiate(
+                selectedCollectable,
+                spawnPosition,
+                Quaternion.identity
+            );
+        }
+        else
+        {
+            Debug.Log("PLAYABLE AREA IS FULL!");
 
-        Vector2 randomPosition = new Vector2(randomX, randomY);
+            GameOver gameOver =
+                FindFirstObjectByType<GameOver>();
 
-        // Spawn the ball
-        Instantiate(
-            selectedCollectable,
-            randomPosition,
-            Quaternion.identity
+            if (gameOver != null)
+            {
+                gameOver.Lost();
+            }
+        }
+    }
+
+    bool TryGetValidSpawnPosition(out Vector2 spawnPosition)
+    {
+        for (int i = 0; i < 50; i++)
+        {
+            float randomX = Random.Range(
+                boundary.bounds.min.x + spawnRadius,
+                boundary.bounds.max.x - spawnRadius
+            );
+
+            float randomY = Random.Range(
+                boundary.bounds.min.y + spawnRadius,
+                boundary.bounds.max.y - spawnRadius
+            );
+
+            Vector2 randomPosition =
+                new Vector2(randomX, randomY);
+
+            Collider2D[] objects =
+                Physics2D.OverlapCircleAll(
+                    randomPosition,
+                    spawnRadius
+                );
+
+            bool positionFree = true;
+
+            foreach (Collider2D obj in objects)
+            {
+                if (obj.gameObject.layer ==
+                    LayerMask.NameToLayer("Ball"))
+                {
+                    positionFree = false;
+                    break;
+                }
+            }
+
+            if (positionFree)
+            {
+                spawnPosition = randomPosition;
+                return true;
+            }
+        }
+
+        spawnPosition = Vector2.zero;
+        return false;
+    }
+
+    void SetNextBombCount()
+    {
+        nextBombAt =
+            ballsPopped + Random.Range(8, 11);
+
+        Debug.Log(
+            "Next bomb after " +
+            nextBombAt +
+            " balls popped"
         );
     }
 }

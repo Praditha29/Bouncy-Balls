@@ -5,44 +5,58 @@ public class YellowBall : MonoBehaviour
 {
     private CollectibleSpawner _collectableSpawner;
 
+    private Collider2D ballCollider;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
 
-        if (_collectableSpawner == null)
-        {
-            Debug.LogError("CollectibleSpawner NOT FOUND!");
-        }
-        else
-        {
-            Debug.Log("CollectibleSpawner FOUND!");
-        }
+        ballCollider = GetComponent<Collider2D>();
+
+        //if (_collectableSpawner == null)
+        //{
+        //    Debug.LogError("CollectibleSpawner NOT FOUND!");
+        //}
+
+        //if (ballCollider == null)
+        //{
+        //    Debug.LogError("Yellow Ball has no Collider2D!");
+        //}
     }
 
     void Update()
     {
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
+        {
             CheckClick(Mouse.current.position.ReadValue());
+        }
 
         if (Touchscreen.current?.primaryTouch.press.wasPressedThisFrame == true)
-            CheckClick(Touchscreen.current.primaryTouch.position.ReadValue());
+        {
+            CheckClick(
+                Touchscreen.current.primaryTouch.position.ReadValue()
+            );
+        }
     }
 
     void CheckClick(Vector2 position)
     {
-        // Convert screen position to world position
         Vector2 worldPosition =
             Camera.main.ScreenToWorldPoint(position);
 
-        // Check if this ball was clicked
-        if (Physics2D.OverlapPoint(worldPosition) == GetComponent<Collider2D>())
+        if (ballCollider.OverlapPoint(worldPosition))
         {
             Debug.Log("Yellow ball clicked");
+            ScoreManager.Instance.AddScore(1);
 
-            // Spawn random ball
+            //to let the collectable Spawner script know that one ball is popped
+            _collectableSpawner.BallPopped();
+
+            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable();
             _collectableSpawner.SpawnCollectable();
 
-            // Destroy yellow ball
             Destroy(gameObject);
         }
     }

@@ -4,19 +4,20 @@ using UnityEngine.InputSystem;
 public class BlueBall : MonoBehaviour
 {
     private CollectibleSpawner _collectableSpawner;
-
+    private Collider2D ballCollider;
     private void Awake()
     {
-        _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>(); 
+        _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
+        ballCollider = GetComponent<Collider2D>();
 
-        if (_collectableSpawner == null)
-        {
-            Debug.LogError("CollectibleSpawner NOT FOUND!");
-        }
-        else
-        {
-            Debug.Log("CollectibleSpawner FOUND!");
-        }
+        //if (_collectableSpawner == null)
+        //{
+        //    Debug.LogError("CollectibleSpawner NOT FOUND!");
+        //}
+        //else
+        //{
+        //    Debug.Log("CollectibleSpawner FOUND!");
+        //}
     }
 
     void Update()
@@ -35,11 +36,17 @@ public class BlueBall : MonoBehaviour
             Camera.main.ScreenToWorldPoint(position);
 
         // Check if this ball was clicked
-        if (Physics2D.OverlapPoint(worldPosition) == GetComponent<Collider2D>())
+        if (ballCollider.OverlapPoint(worldPosition))
         {
             Debug.Log("Blue ball clicked");
+            ScoreManager.Instance.AddScore(1);
+
+            //to let the collectable Spawner script know that one ball is popped
+            _collectableSpawner.BallPopped();
 
             // Spawn 2 random balls
+            _collectableSpawner.SpawnCollectable();
+            _collectableSpawner.SpawnCollectable();
             _collectableSpawner.SpawnCollectable();
             _collectableSpawner.SpawnCollectable();
 

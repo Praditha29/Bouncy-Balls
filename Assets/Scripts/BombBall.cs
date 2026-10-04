@@ -4,9 +4,17 @@ using UnityEngine.InputSystem;
 public class BombBall : MonoBehaviour
 {
     public float blastRadius = 3f;
+
     [SerializeField]
     private LayerMask ballLayer;
 
+    private Collider2D bombCollider;
+    private bool exploded = false;
+
+    private void Awake()
+    {
+        bombCollider = GetComponent<Collider2D>();
+    }
 
     private void Update()
     {
@@ -19,27 +27,25 @@ public class BombBall : MonoBehaviour
 
     void CheckClick(Vector2 position)
     {
-        // Convert screen position to world position
         Vector2 worldPosition =
             Camera.main.ScreenToWorldPoint(position);
 
-        // Check which collider was clicked
-        Collider2D clickedCollider =
-            Physics2D.OverlapPoint(worldPosition);
-
-        // Check if the clicked collider belongs to this bomb
-        if (clickedCollider == GetComponent<Collider2D>())
+        if (bombCollider.OverlapPoint(worldPosition))
         {
             Debug.Log("Bomb clicked!");
 
-            BlastBalls();
-
-            Destroy(gameObject);
+            Explode();
         }
     }
 
-    void BlastBalls()
+    public void Explode()
     {
+        // Prevent the same bomb from exploding twice
+        if (exploded)
+            return;
+
+        exploded = true;
+
         Collider2D[] balls =
             Physics2D.OverlapCircleAll(
                 transform.position,
@@ -47,22 +53,41 @@ public class BombBall : MonoBehaviour
                 ballLayer
             );
 
+        int ballsDestroyed = 0;
+
         foreach (Collider2D ball in balls)
         {
-            // Only destroy objects on the Ball layer
-            if (ball.gameObject.layer == LayerMask.NameToLayer("Ball"))
+            if (ball.gameObject == gameObject)
+                continue;
+
+            BombBall otherBomb =
+                ball.GetComponent<BombBall>();
+
+            if (otherBomb != null)
             {
-                if (ball.gameObject != gameObject)
-                {
-                    Destroy(ball.gameObject);
-                }
+                // Chain reaction!
+                otherBomb.Explode();
             }
+            else
+            {
+                // Normal ball
+                Destroy(ball.gameObject);
+            }
+
+            ballsDestroyed++;
         }
+
+        // Bombs reduce the score
+        ScoreManager.Instance.AddScore(-ballsDestroyed);
+
+        Destroy(gameObject);
     }
 
-    // Shows the blast radius in the Scene view
     private void OnDrawGizmosSelected()
     {
-        Gizmos.DrawWireSphere(transform.position, blastRadius);
+        Gizmos.DrawWireSphere(
+            transform.position,
+            blastRadius
+        );
     }
 }
