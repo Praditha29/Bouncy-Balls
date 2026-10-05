@@ -8,10 +8,14 @@ public class BlueBall : MonoBehaviour
 
     [SerializeField]
     private int spawnAmount = 4;
+
+    AudioManager audioManager;
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
         //{
@@ -53,6 +57,7 @@ public class BlueBall : MonoBehaviour
 
             // Destroy blue ball
             Destroy(gameObject);
+            audioManager.PlaySFX(audioManager.BallPop);
         }
     }
 }

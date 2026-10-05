@@ -17,8 +17,16 @@ public class GameOver : MonoBehaviour
     [SerializeField]
     private TMPro.TextMeshProUGUI finalScoreText;
 
+    AudioManager audioManager;
+
     //[SerializeField]
     //private TMPro.TextMeshProUGUI highScoreText;
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
 
 
     private void Start()
@@ -84,6 +92,7 @@ public class GameOver : MonoBehaviour
         gameOver = true;
 
         Debug.Log("GAME OVER!");
+        audioManager.PlaySFX(audioManager.GameOverAudio);
 
 
         // Show entire Game Over Canvas

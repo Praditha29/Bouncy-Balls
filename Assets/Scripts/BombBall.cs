@@ -10,10 +10,12 @@ public class BombBall : MonoBehaviour
 
     private Collider2D bombCollider;
     private bool exploded = false;
+    AudioManager audioManager;
 
     private void Awake()
     {
         bombCollider = GetComponent<Collider2D>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void Update()
@@ -35,6 +37,7 @@ public class BombBall : MonoBehaviour
             Debug.Log("Bomb clicked!");
 
             Explode();
+            audioManager.PlaySFX(audioManager.Bomb);
         }
     }
 

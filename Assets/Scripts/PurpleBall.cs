@@ -9,10 +9,13 @@ public class PurpleBall : MonoBehaviour
     [SerializeField]
     private int spawnAmount = 3;
 
+    AudioManager audioManager;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
         //{
@@ -55,6 +58,7 @@ public class PurpleBall : MonoBehaviour
 
             // Destroy purple ball
             Destroy(gameObject);
+            audioManager.PlaySFX(audioManager.BallPop);
         }
     }
 }

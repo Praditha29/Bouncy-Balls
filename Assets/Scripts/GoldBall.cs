@@ -8,10 +8,13 @@ public class GoldBall : MonoBehaviour
     [SerializeField]
     private int spawnAmount = 5;
 
+    AudioManager audioManager;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
         //{
@@ -53,6 +56,7 @@ public class GoldBall : MonoBehaviour
 
             // Destroy gold  ball
             Destroy(gameObject);
+            audioManager.PlaySFX(audioManager.BallPop);
         }
     }
 }

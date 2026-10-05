@@ -7,11 +7,14 @@ public class RedBall : MonoBehaviour
     private Collider2D ballCollider;
     [SerializeField]
     private int spawnAmount = 4;
+    AudioManager audioManager;
 
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
         //{
@@ -53,6 +56,7 @@ public class RedBall : MonoBehaviour
 
             // Destroy red ball
             Destroy(gameObject);
+            audioManager.PlaySFX(audioManager.BallPop);
         }
     }
 }
