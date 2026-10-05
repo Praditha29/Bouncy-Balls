@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7029427865776559793}
   - component: {fileID: 5785570853975724081}
   - component: {fileID: 6613790240146722680}
-  - component: {fileID: 4867953074764660063}
+  - component: {fileID: 9171047128676400681}
   m_Layer: 3
   m_Name: GoldBall
   m_TagString: Untagged
@@ -157,7 +157,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &4867953074764660063
+--- !u!114 &9171047128676400681
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -169,3 +169,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22edb7a12b79aa342bf444c98b1edeaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldBall
+  spawnAmount: 5

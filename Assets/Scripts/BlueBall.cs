@@ -10,10 +10,13 @@ public class BlueBall : MonoBehaviour
     private int spawnAmount = 4;
 
     AudioManager audioManager;
+    
+    private GameOver gameOver;
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+        gameOver = FindFirstObjectByType<GameOver>();
 
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
@@ -29,6 +32,9 @@ public class BlueBall : MonoBehaviour
 
     void Update()
     {
+        if (gameOver.IsGameOver())
+            return;
+
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
             CheckClick(Mouse.current.position.ReadValue());
 

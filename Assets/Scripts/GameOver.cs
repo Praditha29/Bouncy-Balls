@@ -12,31 +12,25 @@ public class GameOver : MonoBehaviour
     [SerializeField]
     private int maxBalls = 20;
 
-    private bool gameOver = false;
-
     [SerializeField]
     private TMPro.TextMeshProUGUI finalScoreText;
 
-    AudioManager audioManager;
+    private bool gameOver = false;
 
-    //[SerializeField]
-    //private TMPro.TextMeshProUGUI highScoreText;
+    AudioManager audioManager;
 
     private void Awake()
     {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio")
+            .GetComponent<AudioManager>();
     }
-
-
 
     private void Start()
     {
         Time.timeScale = 1f;
 
-        // Hide Game Over Canvas at the start
         gameOverCanvas.SetActive(false);
     }
-
 
     private void Update()
     {
@@ -46,10 +40,8 @@ public class GameOver : MonoBehaviour
         CheckGameOver();
     }
 
-
     void CheckGameOver()
     {
-        // Find all objects inside the playable area
         Collider2D[] objectsInside =
             Physics2D.OverlapBoxAll(
                 playableArea.bounds.center,
@@ -68,7 +60,6 @@ public class GameOver : MonoBehaviour
             }
         }
 
-
         // No balls left
         if (ballCount == 0)
         {
@@ -82,36 +73,36 @@ public class GameOver : MonoBehaviour
         }
     }
 
-
-    // PUBLIC so CollectibleSpawner can call this
     public void Lost()
     {
         if (gameOver)
             return;
 
+        // Mark game as over FIRST
         gameOver = true;
 
         Debug.Log("GAME OVER!");
-        audioManager.PlaySFX(audioManager.GameOverAudio);
 
+        // Get the final score BEFORE stopping the game
+        int finalScore = ScoreManager.Instance.GetScore();
 
-        // Show entire Game Over Canvas
+        // Display final score
+        finalScoreText.text = "Score: " + finalScore;
+
+        // Show Game Over UI
         gameOverCanvas.SetActive(true);
 
+        // Play sound
+        audioManager.PlaySFX(audioManager.GameOverAudio);
 
-        finalScoreText.text =
-            "Score: " +
-            ScoreManager.Instance.GetScore();
-
-
-        //highScoreText.text =
-        //    "High Score: " +
-        //    ScoreManager.Instance.GetHighScore();
-
-
+        // Stop game
         Time.timeScale = 0f;
     }
 
+    public bool IsGameOver()
+    {
+        return gameOver;
+    }
 
     public void Restart()
     {
@@ -120,14 +111,12 @@ public class GameOver : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
-
     public void MainMenu()
     {
         Time.timeScale = 1f;
 
         SceneManager.LoadScene("MainMenu");
     }
-
 
     public void Exit()
     {

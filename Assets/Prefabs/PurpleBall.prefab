@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5091958431424740833}
   - component: {fileID: 6891446708298446553}
   - component: {fileID: 6394708527092211717}
-  - component: {fileID: 6859241219942161238}
+  - component: {fileID: 8350152271372399846}
   m_Layer: 3
   m_Name: PurpleBall
   m_TagString: Untagged
@@ -157,7 +157,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &6859241219942161238
+--- !u!114 &8350152271372399846
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -169,3 +169,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4171c0a2980d6fa458ad0455623c74af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PurpleBall
+  spawnAmount: 3

@@ -11,10 +11,15 @@ public class GreenBall : MonoBehaviour
 
     AudioManager audioManager;
 
+    
+    private GameOver gameOver;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+        gameOver = FindFirstObjectByType<GameOver>();
+
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
@@ -29,6 +34,8 @@ public class GreenBall : MonoBehaviour
 
     void Update()
     {
+        if (gameOver.IsGameOver())
+            return;
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
             CheckClick(Mouse.current.position.ReadValue());
 

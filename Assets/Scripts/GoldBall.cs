@@ -4,9 +4,13 @@ using UnityEngine.InputSystem;
 public class GoldBall : MonoBehaviour
 {
     private CollectibleSpawner _collectableSpawner;
+
     private Collider2D ballCollider;
+
     [SerializeField]
     private int spawnAmount = 5;
+
+    private GameOver gameOver;
 
     AudioManager audioManager;
 
@@ -14,6 +18,8 @@ public class GoldBall : MonoBehaviour
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         ballCollider = GetComponent<Collider2D>();
+        gameOver = FindFirstObjectByType<GameOver>();
+
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         //if (_collectableSpawner == null)
@@ -28,6 +34,8 @@ public class GoldBall : MonoBehaviour
 
     void Update()
     {
+        if (gameOver.IsGameOver())
+            return;
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
             CheckClick(Mouse.current.position.ReadValue());
 

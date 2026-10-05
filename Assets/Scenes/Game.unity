@@ -3386,6 +3386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BlueBall
       objectReference: {fileID: 0}
+    - target: {fileID: 1258343908044418573, guid: fcc0fdf2bb8ecd04ba13ff59e04dc642, type: 3}
+      propertyPath: gameOver
+      value: 
+      objectReference: {fileID: 257038929}
     - target: {fileID: 5391439721916137881, guid: fcc0fdf2bb8ecd04ba13ff59e04dc642, type: 3}
       propertyPath: m_Color.b
       value: 1

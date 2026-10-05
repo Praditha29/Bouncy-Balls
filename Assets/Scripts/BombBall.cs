@@ -12,14 +12,20 @@ public class BombBall : MonoBehaviour
     private bool exploded = false;
     AudioManager audioManager;
 
+    
+    private GameOver gameOver;
+
     private void Awake()
     {
         bombCollider = GetComponent<Collider2D>();
+        gameOver = FindFirstObjectByType<GameOver>();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void Update()
     {
+        if (gameOver.IsGameOver())
+            return;
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
             CheckClick(Mouse.current.position.ReadValue());
 
