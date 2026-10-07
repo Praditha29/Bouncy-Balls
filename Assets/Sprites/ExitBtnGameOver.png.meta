@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 10efad9d0d0c6bf46b956cc8b2578f66
+guid: 11eec04fff2a3e04ca017e48bd8929c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3451699440861859892
-    second: MainMenu_0
+      213: -4199454260511365424
+    second: ExitBtnGameOver_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MainMenu_0
+      name: ExitBtnGameOver_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 44
-        width: 934
-        height: 185
+        x: 16
+        y: 12
+        width: 409
+        height: 175
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccfa30c75a91910d0800000000000000
-      internalID: -3451699440861859892
+      spriteID: 0d628b7899a88b5c0800000000000000
+      internalID: -4199454260511365424
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MainMenu_0: -3451699440861859892
+      ExitBtnGameOver_0: -4199454260511365424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
