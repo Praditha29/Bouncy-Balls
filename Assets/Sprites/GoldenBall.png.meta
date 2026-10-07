@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6b0198d1bf5afba4db31b6c4c593ca8a
+guid: 25fc5e1f6202de745ba454912d3a78cb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4973088527674372411
-    second: GreenBall_0
+      213: -4019890801653236324
+    second: GoldenBall_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 2
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
-  spriteExtrude: 1
+  spriteMode: 1
+  spriteExtrude: 4
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenBall_0
+      name: GoldenBall_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 281
-        height: 280
+        x: 97
+        y: 108
+        width: 306
+        height: 298
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ce0667255a0cfab0800000000000000
-      internalID: -4973088527674372411
+      spriteID: c9d399b3d9a7638c0800000000000000
+      internalID: -4019890801653236324
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GreenBall_0: -4973088527674372411
+      GoldenBall_0: -4019890801653236324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

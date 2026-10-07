@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 7075335312877754303}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.62, y: 0.27866662, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.6089, y: 0.3009, z: 0}
+  m_LocalScale: {x: 1.0123, y: 1.0248, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -84,12 +84,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -22789415032335762, guid: 0769f9ac6f0cf47419edf5efe6d577e7, type: 3}
+  m_Sprite: {fileID: -1525019156542339399, guid: ce379edab56007046911e7eb0405297d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 3.12, y: 3.05}
+  m_Size: {x: 3.06, y: 2.99}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -169,4 +169,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c0cc08c1085a594bb1ca2d26d9c8da1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RedBall
-  spawnAmount: 4
+  spawnAmount: 2

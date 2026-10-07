@@ -116,7 +116,7 @@ public class CollectibleSpawner : MonoBehaviour
     {
         nextBombAt =
             ballsPopped +
-            Random.Range(8, 11);
+            Random.Range(6, 11);
 
         Debug.Log(
             "Next bomb after " +

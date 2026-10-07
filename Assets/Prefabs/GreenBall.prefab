@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -4973088527674372411, guid: 6b0198d1bf5afba4db31b6c4c593ca8a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 31f93f530d5668940966f5c9acb9dfa6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -128,8 +128,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0014167726, y: 0}
-  m_Radius: 0.45091644
+  m_Offset: {x: -0.0014168024, y: 0.019711137}
+  m_Radius: 0.43423748
 --- !u!114 &3642105072977163599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70a9a08970b53e941a51ea772204f176, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GreenBall
-  spawnAmount: 4
+  spawnAmount: 3
 --- !u!50 &1725257703416007430
 Rigidbody2D:
   serializedVersion: 5

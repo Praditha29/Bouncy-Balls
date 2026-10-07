@@ -14,4 +14,4 @@ public class HowToPlay : MonoBehaviour
     {
         howToPlayPanel.SetActive(false);
     }
-}
+}   

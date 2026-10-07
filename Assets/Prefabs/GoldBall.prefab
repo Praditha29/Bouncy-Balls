@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 6590108657492636866}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.733, y: 3.18, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.7582, y: 3.4124, z: 0}
+  m_LocalScale: {x: 0.35119477, y: 0.36149168, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -84,12 +84,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7996240893213110933, guid: 3b402de2495d0c148be25f8013276812, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 25fc5e1f6202de745ba454912d3a78cb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 3.12, y: 3.05}
+  m_Size: {x: 5, y: 5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -128,8 +128,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.005890012, y: 0}
-  m_Radius: 0.50779855
+  m_Offset: {x: -0.0058894837, y: 0.021373702}
+  m_Radius: 1.5125641
 --- !u!50 &6613790240146722680
 Rigidbody2D:
   serializedVersion: 5
@@ -169,4 +169,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22edb7a12b79aa342bf444c98b1edeaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldBall
-  spawnAmount: 5
+  spawnAmount: 4

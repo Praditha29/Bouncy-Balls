@@ -86,8 +86,8 @@ public class BombBall : MonoBehaviour
             ballsDestroyed++;
         }
 
-        // Bombs reduce the score
-        ScoreManager.Instance.AddScore(-ballsDestroyed);
+        // Bombs Adds the score
+        ScoreManager.Instance.AddScore(ballsDestroyed);
 
         Destroy(gameObject);
     }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a3235516be223e044a6b8c76cdae21ab
+guid: 31f93f530d5668940966f5c9acb9dfa6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5025437265661322431
-    second: YellowBall_0
+      213: 3014697026769148675
+    second: GreenBall1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 300
+  spritePixelsToUnits: 350
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: YellowBall_0
+      name: GreenBall1_0
       rect:
         serializedVersion: 2
-        x: 57
-        y: 48
-        width: 248
-        height: 252
+        x: 97
+        y: 107
+        width: 306
+        height: 299
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb4e0c43190fdb540800000000000000
-      internalID: 5025437265661322431
+      spriteID: 30b500a29fa56d920800000000000000
+      internalID: 3014697026769148675
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      YellowBall_0: 5025437265661322431
+      GreenBall1_0: 3014697026769148675
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
