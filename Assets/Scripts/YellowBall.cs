@@ -13,6 +13,9 @@ public class YellowBall : MonoBehaviour
     
     private GameOver gameOver;
 
+    //for floating Text
+    [SerializeField] private GameObject floatingTextPrefab;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -65,7 +68,9 @@ public class YellowBall : MonoBehaviour
             _collectableSpawner.BallPopped();
 
             _collectableSpawner.SpawnCollectable(spawnAmount);
-         
+
+            //for Floating Text
+            Instantiate(floatingTextPrefab, transform.position, Quaternion.identity);
 
             Destroy(gameObject);
             audioManager.PlaySFX(audioManager.BallPop);

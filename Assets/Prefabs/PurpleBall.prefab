@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 1668510101255977059}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.21, y: 1.54, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 1.0012, y: 1.2972, z: 0}
+  m_LocalScale: {x: 0.70766824, y: 0.69339883, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -170,3 +170,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PurpleBall
   spawnAmount: 3
+  floatingTextPrefab: {fileID: 7435097923728247631, guid: fdcbb34a38e634742a6e67214a463cbe, type: 3}

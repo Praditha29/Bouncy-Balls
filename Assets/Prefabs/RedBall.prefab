@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 7075335312877754303}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6089, y: 0.3009, z: 0}
-  m_LocalScale: {x: 1.0123, y: 1.0248, z: 1}
+  m_LocalPosition: {x: -1.6901, y: 0.2187, z: 0}
+  m_LocalScale: {x: 0.8003712, y: 0.8048651, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -128,8 +128,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.008024514, y: 0}
-  m_Radius: 0.44349796
+  m_Offset: {x: 0.0001479946, y: 0.006448241}
+  m_Radius: 0.37095585
 --- !u!50 &4291446856265684257
 Rigidbody2D:
   serializedVersion: 5
@@ -170,3 +170,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RedBall
   spawnAmount: 2
+  floatingTextPrefab: {fileID: 6053468329996920835, guid: c874f3c32bea0d2478d33d16a047cc7d, type: 3}

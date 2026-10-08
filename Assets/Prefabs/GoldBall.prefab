@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 6590108657492636866}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.7582, y: 3.4124, z: 0}
-  m_LocalScale: {x: 0.35119477, y: 0.36149168, z: 1}
+  m_LocalPosition: {x: 1.3868, y: 2.8935, z: 0}
+  m_LocalScale: {x: 0.20263559, y: 0.1994993, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -170,3 +170,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GoldBall
   spawnAmount: 4
+  floatingTextPrefab: {fileID: 4942330360266984813, guid: 492dcd35521f21d40b9efe9899383010, type: 3}

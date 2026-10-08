@@ -29,8 +29,8 @@ Transform:
   m_GameObject: {fileID: 4840660710448301797}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.33, y: 3.38, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -1.5545, y: 3.1149, z: 0}
+  m_LocalScale: {x: 0.68575984, y: 0.68878514, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -143,6 +143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GreenBall
   spawnAmount: 3
+  floatingTextPrefab: {fileID: 2112710746444757094, guid: 9717ddafc4cdaa94db099e1aac1c5877, type: 3}
 --- !u!50 &1725257703416007430
 Rigidbody2D:
   serializedVersion: 5

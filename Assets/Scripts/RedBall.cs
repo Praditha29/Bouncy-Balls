@@ -11,6 +11,9 @@ public class RedBall : MonoBehaviour
     
     private GameOver gameOver;
 
+    //for floating Text
+    [SerializeField] private GameObject floatingTextPrefab;
+
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -57,7 +60,9 @@ public class RedBall : MonoBehaviour
 
             // Spawn random ball
             _collectableSpawner.SpawnCollectable(spawnAmount);
-            
+
+            //for Floating Text
+            Instantiate(floatingTextPrefab, transform.position, Quaternion.identity);
 
             // Destroy red ball
             Destroy(gameObject);

@@ -13,6 +13,8 @@ public class PurpleBall : MonoBehaviour
 
     private GameOver gameOver;
 
+    //for floating Text
+    [SerializeField] private GameObject floatingTextPrefab;
     private void Awake()
     {
         _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
@@ -60,7 +62,9 @@ public class PurpleBall : MonoBehaviour
 
             // Spawn 3 random balls
             _collectableSpawner.SpawnCollectable(spawnAmount);
-          
+
+            //for Floating Text
+            Instantiate(floatingTextPrefab, transform.position, Quaternion.identity);
 
             // Destroy purple ball
             Destroy(gameObject);

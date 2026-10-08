@@ -12,6 +12,9 @@ public class GoldBall : MonoBehaviour
 
     private GameOver gameOver;
 
+    //for floating Text
+    [SerializeField] private GameObject floatingTextPrefab;
+
     AudioManager audioManager;
 
     private void Awake()
@@ -60,7 +63,9 @@ public class GoldBall : MonoBehaviour
 
             // Spawn 4 random balls
             _collectableSpawner.SpawnCollectable(spawnAmount);
-            
+
+            //for Floating Text
+            Instantiate(floatingTextPrefab, transform.position, Quaternion.identity);
 
             // Destroy gold  ball
             Destroy(gameObject);
