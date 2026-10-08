@@ -15,6 +15,9 @@ public class GameOver : MonoBehaviour
     [SerializeField]
     private TMPro.TextMeshProUGUI finalScoreText;
 
+    [SerializeField]
+    private TMPro.TextMeshProUGUI highScoreText;
+
     private bool gameOver = false;
 
     AudioManager audioManager;
@@ -60,14 +63,8 @@ public class GameOver : MonoBehaviour
             }
         }
 
-        // No balls left
-        if (ballCount == 0)
-        {
-            Lost();
-        }
-
         // Too many balls
-        else if (ballCount >= maxBalls)
+        if (ballCount >= maxBalls)
         {
             Lost();
         }
@@ -85,9 +82,12 @@ public class GameOver : MonoBehaviour
 
         // Get the final score BEFORE stopping the game
         int finalScore = ScoreManager.Instance.GetScore();
+        int highScore = ScoreManager.Instance.GetHighScore();
 
-        // Display final score
-        finalScoreText.text = "Score: " + finalScore;
+        // Show only the number
+        finalScoreText.text = finalScore.ToString();
+        // Display high score
+        highScoreText.text = highScore.ToString();
 
         // Show Game Over UI
         gameOverCanvas.SetActive(true);
