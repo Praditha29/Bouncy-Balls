@@ -48,16 +48,26 @@ public class BlueSpecialBall : MonoBehaviour
 
     private void RemoveAllBlueBalls()
     {
-    BlueBall[] blueBalls =
-        FindObjectsByType<BlueBall>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
+        BlueBall[] blueBalls = FindObjectsByType<BlueBall>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
 
-    Debug.Log("Blue balls found: " + blueBalls.Length);
+        Debug.Log("Blue balls found: " + blueBalls.Length);
 
-    foreach (BlueBall blueBall in blueBalls)
+        int ballsRemoved = blueBalls.Length;
+
+        foreach (BlueBall blueBall in blueBalls)
+            {
+                Debug.Log("Removing: " + blueBall.gameObject.name);
+
+                Destroy(blueBall.gameObject);
+            }
+        
+
+        // Award 10 points for every 10 balls removed
+        int pointsEarned = (ballsRemoved / 10) * 10;
+
+        if (ScoreManager.Instance != null)
         {
-            Debug.Log("Removing: " + blueBall.gameObject.name);
-
-            Destroy(blueBall.gameObject);
+            ScoreManager.Instance.AddScore(pointsEarned);
         }
     }
 }

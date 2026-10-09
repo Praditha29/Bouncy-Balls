@@ -61,6 +61,15 @@ public class PurpleSpecialBall : MonoBehaviour
 
             Destroy(purpleBall.gameObject);
         }
+
+        int ballsRemoved = purpleBalls.Length;
+        // Award 10 points for every 10 balls removed
+        int pointsEarned = (ballsRemoved / 10) * 10;
+
+        if (ScoreManager.Instance != null)
+        {
+            ScoreManager.Instance.AddScore(pointsEarned);
+        }
     }
 }
 

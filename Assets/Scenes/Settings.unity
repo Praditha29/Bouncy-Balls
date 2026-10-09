@@ -691,7 +691,7 @@ MonoBehaviour:
   background: {fileID: 8300000, guid: ccfee925bfeda97458b520a1daf0ce7c, type: 3}
   BallPop: {fileID: 8300000, guid: d1afc6cfdc4e3e54ebc88b161cb95595, type: 3}
   Bomb: {fileID: 8300000, guid: 5c67ac34354231949a99efabe132bf27, type: 3}
-  GameOverAudio: {fileID: 8300000, guid: d93aa157265a1c84fb5164a285fd8a20, type: 3}
+  GameOverAudio: {fileID: 8300000, guid: 34e510c0a5648ef4fa1e5657736176f7, type: 3}
 --- !u!4 &868954554
 Transform:
   m_ObjectHideFlags: 0

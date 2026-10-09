@@ -529,7 +529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameOver
   playableArea: {fileID: 932635403}
   gameOverCanvas: {fileID: 1882604922}
-  maxBalls: 120
+  maxBalls: 130
   finalScoreText: {fileID: 745301768}
   highScoreText: {fileID: 1858680536}
 --- !u!4 &257038930
@@ -581,7 +581,7 @@ MonoBehaviour:
   background: {fileID: 8300000, guid: ccfee925bfeda97458b520a1daf0ce7c, type: 3}
   BallPop: {fileID: 8300000, guid: d1afc6cfdc4e3e54ebc88b161cb95595, type: 3}
   Bomb: {fileID: 8300000, guid: 5c67ac34354231949a99efabe132bf27, type: 3}
-  GameOverAudio: {fileID: 8300000, guid: d93aa157265a1c84fb5164a285fd8a20, type: 3}
+  GameOverAudio: {fileID: 8300000, guid: 34e510c0a5648ef4fa1e5657736176f7, type: 3}
 --- !u!4 &264270789
 Transform:
   m_ObjectHideFlags: 0
@@ -923,10 +923,13 @@ MonoBehaviour:
   spikePrefab: {fileID: 1356685690600554442, guid: f7620c8d9e5e00b4eae2ee5d7e32d381, type: 3}
   randomBallPrefab: {fileID: 2249860219896239236, guid: af9c4a3044f15f940a3388b1cad185a6, type: 3}
   boundary: {fileID: 932635403}
+  scoreManager: {fileID: 865645554}
+  maximumExtraSpawnDelay: 40
   blueSpecialBallPrefab: {fileID: 3038764717407659537, guid: 18ec8001bfc6596479a10f881eb95760, type: 3}
   goldSpecialBallPrefab: {fileID: 6191930870473124190, guid: 1ad021eb1bf978041901430fbe82b1a2, type: 3}
   greenSpecialBallPrefab: {fileID: 9061622886260685161, guid: 0f26b7b36513fd24ea37c209e5717c2b, type: 3}
   purpleSpecialBallPrefab: {fileID: 3947964631099731153, guid: dbb3acdd4090c2644a8338ab1523fdc3, type: 3}
+  minimumBallsForSpecial: 30
 --- !u!4 &612890386
 Transform:
   m_ObjectHideFlags: 0
@@ -4112,6 +4115,14 @@ PrefabInstance:
     - target: {fileID: 1515030335405617580, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2226862687031048921, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 2226862687031048921, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.96
       objectReference: {fileID: 0}
     - target: {fileID: 3301090350234058994, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
       propertyPath: m_Name

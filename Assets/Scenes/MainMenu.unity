@@ -1783,7 +1783,7 @@ MonoBehaviour:
   background: {fileID: 8300000, guid: ccfee925bfeda97458b520a1daf0ce7c, type: 3}
   BallPop: {fileID: 8300000, guid: d1afc6cfdc4e3e54ebc88b161cb95595, type: 3}
   Bomb: {fileID: 8300000, guid: 5c67ac34354231949a99efabe132bf27, type: 3}
-  GameOverAudio: {fileID: 8300000, guid: d93aa157265a1c84fb5164a285fd8a20, type: 3}
+  GameOverAudio: {fileID: 8300000, guid: 34e510c0a5648ef4fa1e5657736176f7, type: 3}
 --- !u!4 &1844093360
 Transform:
   m_ObjectHideFlags: 0
@@ -1999,7 +1999,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -5
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 2d48a16fddd46c045ad6910c2a2cd984, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e45faad236122a94eb394e542962e9d1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2018,8 +2018,8 @@ Transform:
   m_GameObject: {fileID: 2047745772}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0155, y: -0.0113, z: 0}
-  m_LocalScale: {x: 0.54994094, y: 0.5545887, z: 1}
+  m_LocalPosition: {x: 0.0027, y: -0.0367, z: 0}
+  m_LocalScale: {x: 0.9671676, y: 0.94939667, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

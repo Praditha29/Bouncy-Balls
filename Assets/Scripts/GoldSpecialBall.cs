@@ -61,6 +61,16 @@ public class GoldSpecialBall : MonoBehaviour
 
             Destroy(goldBall.gameObject);
         }
+
+        int ballsRemoved = goldBalls.Length;
+
+        // Award 10 points for every 10 balls removed
+        int pointsEarned = (ballsRemoved / 10) * 10;
+
+        if (ScoreManager.Instance != null)
+        {
+            ScoreManager.Instance.AddScore(pointsEarned);
+        }
     }
 }
 
