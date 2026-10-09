@@ -159,15 +159,6 @@ public class CollectibleSpawner : MonoBehaviour
         // -----------------------------
         // BLUE SPECIAL BALL
         // -----------------------------
-
-        //if (ballsPopped >= nextBlueSpecialBallAt && spawned < amount)
-        //{
-        //    SpawnObject(blueSpecialBallPrefab);
-
-        //    spawned++;
-
-        //    SetNextBlueSpecialBallCount();
-        //}
         
         if (spawned < amount && CountBalls<BlueBall>() >= minimumBallsForSpecial)
         {
@@ -179,15 +170,6 @@ public class CollectibleSpawner : MonoBehaviour
         // GOLD SPECIAL BALL
         // -----------------------------
 
-        //if (ballsPopped >= nextGoldSpecialBallAt && spawned < amount)
-        //{
-        //    SpawnObject(goldSpecialBallPrefab);
-
-        //    spawned++;
-
-        //    SetNextGoldSpecialBallCount();
-        //}
-
         if (spawned < amount && CountBalls<GoldBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(goldSpecialBallPrefab);
@@ -198,15 +180,6 @@ public class CollectibleSpawner : MonoBehaviour
         // GREEN SPECIAL BALL
         // -----------------------------
 
-        //if (ballsPopped >= nextGreenSpecialBallAt && spawned < amount)
-        //{
-        //    SpawnObject(greenSpecialBallPrefab);
-
-        //    spawned++;
-
-        //    SetNextGreenSpecialBallCount();
-        //}
-
         if (spawned < amount && CountBalls<GreenBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(greenSpecialBallPrefab);
@@ -216,15 +189,6 @@ public class CollectibleSpawner : MonoBehaviour
         // -----------------------------
         // PURPLE SPECIAL BALL
         // -----------------------------
-
-        //if (ballsPopped >= nextPurpleSpecialBallAt && spawned < amount)
-        //{
-        //    SpawnObject(purpleSpecialBallPrefab);
-
-        //    spawned++;
-
-        //    SetNextPurpleSpecialBallCount();
-        //}
 
         if (spawned < amount && CountBalls<PurpleBall>() >= minimumBallsForSpecial)
         {

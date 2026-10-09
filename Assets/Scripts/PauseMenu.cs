@@ -13,7 +13,8 @@ public class PauseMenu : MonoBehaviour
 
     public void PauseGame()
     {
-        isPaused = true;
+        if (isPaused)
+            return;
         Pause.SetActive(true);
 
         Time.timeScale = 0f;

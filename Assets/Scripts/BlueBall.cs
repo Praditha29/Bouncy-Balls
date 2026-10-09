@@ -38,6 +38,10 @@ public class BlueBall : MonoBehaviour
         if (gameOver.IsGameOver())
             return;
 
+        // Don't allow popping while paused
+        if (Time.timeScale == 0f)
+            return;
+
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)
             CheckClick(Mouse.current.position.ReadValue());
 

@@ -23,6 +23,9 @@ public class PurpleSpecialBall : MonoBehaviour
     {
         if (gameOver != null && gameOver.IsGameOver())
             return;
+        // Don't allow popping while paused
+        if (Time.timeScale == 0f)
+            return;
 
         // Mouse click
         if (Mouse.current?.leftButton.wasPressedThisFrame == true)

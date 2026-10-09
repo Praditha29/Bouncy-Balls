@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: f0a15552029f39a49b82a1006f4894f3
+guid: 7db50d7c514242d4ab8e24be247bb87d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3745326673975666053
-    second: Settings1_0
+      213: -8878039042981530466
+    second: ChatGPT Image Oct 9, 2026, 11_39_36 PM_0
+  - first:
+      213: -1176284403968744210
+    second: ChatGPT Image Oct 9, 2026, 11_39_36 PM_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Settings1_0
+      name: ChatGPT Image Oct 9, 2026, 11_39_36 PM_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 887
-        height: 1774
+        y: 27
+        width: 1987
+        height: 759
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5856d1234c21af330800000000000000
-      internalID: 3745326673975666053
+      spriteID: e94790d378edac480800000000000000
+      internalID: -8878039042981530466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatGPT Image Oct 9, 2026, 11_39_36 PM_1
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 777
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee46c9a119ffcafe0800000000000000
+      internalID: -1176284403968744210
       vertices: []
       indices: 
       edges: []
@@ -161,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Settings1_0: 3745326673975666053
+      ChatGPT Image Oct 9, 2026, 11_39_36 PM_0: -8878039042981530466
+      ChatGPT Image Oct 9, 2026, 11_39_36 PM_1: -1176284403968744210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

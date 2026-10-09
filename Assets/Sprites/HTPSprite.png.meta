@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5e1284359454b6d498a15dcb07100a96
+guid: 3fc68008a5c1470458dc90807bae1bab
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 642261833191417987
-    second: Bouncy__3_-removebg-preview_0
+      213: -7855189400651059748
+    second: ChatGPT Image Oct 9, 2026, 11_36_27 PM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 128
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bouncy__3_-removebg-preview_0
+      name: ChatGPT Image Oct 9, 2026, 11_36_27 PM_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 9
-        width: 427
-        height: 150
+        x: 0
+        y: 15
+        width: 2170
+        height: 694
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3886a240cb5c9e800800000000000000
-      internalID: 642261833191417987
+      spriteID: cdda7c2dbd2ccf290800000000000000
+      internalID: -7855189400651059748
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bouncy__3_-removebg-preview_0: 642261833191417987
+      ChatGPT Image Oct 9, 2026, 11_36_27 PM_0: -7855189400651059748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
