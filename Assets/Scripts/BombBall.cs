@@ -15,11 +15,13 @@ public class BombBall : MonoBehaviour
     
     private GameOver gameOver;
 
+    private Animator bombAnimator;
     private void Awake()
     {
         bombCollider = GetComponent<Collider2D>();
         gameOver = FindFirstObjectByType<GameOver>();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        bombAnimator = GetComponent<Animator>();
     }
 
     private void Update()
@@ -81,6 +83,7 @@ public class BombBall : MonoBehaviour
             {
                 // Normal ball
                 Destroy(ball.gameObject);
+
             }
 
             ballsDestroyed++;
@@ -89,7 +92,19 @@ public class BombBall : MonoBehaviour
         // Bombs Adds the score
         ScoreManager.Instance.AddScore(ballsDestroyed);
 
-        Destroy(gameObject);
+        // Play the animation sequence.
+        // The animation script will destroy the bomb afterward.
+
+        if (bombAnimator != null)
+        {
+            bombAnimator.Play("Bomb", 0, 0f);
+            StartCoroutine(DestroyAfterAnimation());
+        }
+        else
+        {
+            Debug.LogError("Animator component is missing!");
+            Destroy(gameObject);
+        }
     }
 
     private void OnDrawGizmosSelected()
@@ -98,5 +113,13 @@ public class BombBall : MonoBehaviour
             transform.position,
             blastRadius
         );
+    }
+
+
+    [SerializeField] private float explosionDuration = 0.3f;
+    private System.Collections.IEnumerator DestroyAfterAnimation()
+    {
+        yield return new WaitForSeconds(explosionDuration);
+        Destroy(gameObject);
     }
 }
