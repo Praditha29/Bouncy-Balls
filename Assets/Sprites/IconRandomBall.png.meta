@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 6a40219653216f64b863598dba32e9e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 292978870802105998
+    second: IconRandomBall_0
+  - first:
+      213: -1657917740348010247
+    second: IconRandomBall_1
+  - first:
+      213: -1359625074180896560
+    second: IconRandomBall_2
+  - first:
+      213: 8295413843635825522
+    second: IconRandomBall_3
+  - first:
+      213: -5615109141114334453
+    second: IconRandomBall_4
+  - first:
+      213: -576680009503596813
+    second: IconRandomBall_5
+  - first:
+      213: 320436626938430333
+    second: IconRandomBall_6
+  - first:
+      213: 5985813306905673114
+    second: IconRandomBall_7
+  - first:
+      213: -7055927047578007287
+    second: IconRandomBall_8
+  - first:
+      213: 8573585030502863790
+    second: IconRandomBall_9
+  - first:
+      213: -2109665337244264811
+    second: IconRandomBall_10
+  - first:
+      213: -7758770934938591598
+    second: IconRandomBall_11
+  - first:
+      213: 7210681383685077808
+    second: IconRandomBall_12
+  - first:
+      213: -8558883235160493523
+    second: IconRandomBall_13
+  - first:
+      213: -4607703999350427324
+    second: IconRandomBall_14
+  - first:
+      213: -6388003391332812708
+    second: IconRandomBall_15
+  - first:
+      213: -7803683879005137119
+    second: IconRandomBall_16
+  - first:
+      213: -6015076092226422725
+    second: IconRandomBall_17
+  - first:
+      213: -2750406431925859815
+    second: IconRandomBall_18
+  - first:
+      213: -8528653605489874556
+    second: IconRandomBall_19
+  - first:
+      213: -696320107849720448
+    second: IconRandomBall_20
+  - first:
+      213: -1460473457904173128
+    second: IconRandomBall_21
+  - first:
+      213: 2471128409148744557
+    second: IconRandomBall_22
+  - first:
+      213: 1884086386934857847
+    second: IconRandomBall_23
+  - first:
+      213: 4042048162894646555
+    second: IconRandomBall_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconRandomBall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1221
+        height: 1254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86cad01bbed01400800000000000000
+      internalID: 292978870802105998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_1
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 189
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f01db36994edf8e0800000000000000
+      internalID: -1657917740348010247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 132
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8cbb9d234a12de0800000000000000
+      internalID: -1359625074180896560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b65c690fa3f1370800000000000000
+      internalID: 8295413843635825522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_4
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 79
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03d4dc7cff1312b0800000000000000
+      internalID: -5615109141114334453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 43
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe187436983ff7f0800000000000000
+      internalID: -576680009503596813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 91
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7380b91a6b627400800000000000000
+      internalID: 320436626938430333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 61
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3be90d71e11350800000000000000
+      internalID: 5985813306905673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 57
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909ca00fbbf441e90800000000000000
+      internalID: -7055927047578007287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_9
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 35
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3dab2192e7bf670800000000000000
+      internalID: 8573585030502863790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 51
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596d992ad86f8b2e0800000000000000
+      internalID: -2109665337244264811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 31
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1c5141fe435490800000000000000
+      internalID: -7758770934938591598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_12
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b321fb38c711460800000000000000
+      internalID: 7210681383685077808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 74
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2276366b0db83980800000000000000
+      internalID: -8558883235160493523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 39
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441329010a52e00c0800000000000000
+      internalID: -4607703999350427324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 45
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58fd9bb2c04957a0800000000000000
+      internalID: -6388003391332812708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 34
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d4749bdeb3b390800000000000000
+      internalID: -7803683879005137119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 47
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3836e1d928268ca0800000000000000
+      internalID: -6015076092226422725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_18
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 51
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0c152ce794d9d0800000000000000
+      internalID: -2750406431925859815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489eb688bb224a980800000000000000
+      internalID: -8528653605489874556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_20
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 33
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dd7a91d8c2656f0800000000000000
+      internalID: -696320107849720448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_21
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 27
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3cb1c02b5bbbe0800000000000000
+      internalID: -1460473457904173128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_22
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63efad02363b4220800000000000000
+      internalID: 2471128409148744557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 15
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770c66b269e952a10800000000000000
+      internalID: 1884086386934857847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconRandomBall_24
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d0b52736d381830800000000000000
+      internalID: 4042048162894646555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IconRandomBall_0: 292978870802105998
+      IconRandomBall_1: -1657917740348010247
+      IconRandomBall_10: -2109665337244264811
+      IconRandomBall_11: -7758770934938591598
+      IconRandomBall_12: 7210681383685077808
+      IconRandomBall_13: -8558883235160493523
+      IconRandomBall_14: -4607703999350427324
+      IconRandomBall_15: -6388003391332812708
+      IconRandomBall_16: -7803683879005137119
+      IconRandomBall_17: -6015076092226422725
+      IconRandomBall_18: -2750406431925859815
+      IconRandomBall_19: -8528653605489874556
+      IconRandomBall_2: -1359625074180896560
+      IconRandomBall_20: -696320107849720448
+      IconRandomBall_21: -1460473457904173128
+      IconRandomBall_22: 2471128409148744557
+      IconRandomBall_23: 1884086386934857847
+      IconRandomBall_24: 4042048162894646555
+      IconRandomBall_3: 8295413843635825522
+      IconRandomBall_4: -5615109141114334453
+      IconRandomBall_5: -576680009503596813
+      IconRandomBall_6: 320436626938430333
+      IconRandomBall_7: 5985813306905673114
+      IconRandomBall_8: -7055927047578007287
+      IconRandomBall_9: 8573585030502863790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -243,8 +243,6 @@ public class CollectibleSpawner : MonoBehaviour
         // NORMAL BALLS
         // -----------------------------
 
-        // NORMAL BALLS
-        // NORMAL BALLS
         while (spawned < amount)
         {
             GameObject prefab = GetAllowedNormalPrefab();
@@ -333,7 +331,7 @@ public class CollectibleSpawner : MonoBehaviour
 
     private void SetNextBombCount()
     {
-        nextBombAt = ballsPopped + Random.Range(10, 16);
+        nextBombAt = ballsPopped + Random.Range(15, 26);
 
         Debug.Log("Next bomb after " + nextBombAt + " balls popped");
     }
@@ -341,7 +339,7 @@ public class CollectibleSpawner : MonoBehaviour
 
     private void SetNextSpikeCount()
     {
-        nextSpikeAt = ballsPopped + Random.Range(10, 20);
+        nextSpikeAt = ballsPopped + Random.Range(15, 26);
 
         Debug.Log("Next spike after " + nextSpikeAt + " balls popped");
     }

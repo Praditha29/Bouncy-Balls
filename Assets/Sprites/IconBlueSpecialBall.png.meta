@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 5510cb642e7da8a409c8b92dac053bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3586731661480919729
+    second: Glossy Purple Planet App Icon_0
+  - first:
+      213: -9042561443702719942
+    second: Glossy Purple Planet App Icon_1
+  - first:
+      213: -8510199284273740647
+    second: Glossy Purple Planet App Icon_2
+  - first:
+      213: -5578369539963110738
+    second: Glossy Purple Planet App Icon_3
+  - first:
+      213: 781879071175319568
+    second: Glossy Purple Planet App Icon_4
+  - first:
+      213: -4116494052498383216
+    second: Glossy Purple Planet App Icon_5
+  - first:
+      213: -8712746383959810116
+    second: Glossy Purple Planet App Icon_6
+  - first:
+      213: -8479495328094012011
+    second: Glossy Purple Planet App Icon_7
+  - first:
+      213: -5066301661087502142
+    second: Glossy Purple Planet App Icon_8
+  - first:
+      213: 2098433733795506811
+    second: Glossy Purple Planet App Icon_9
+  - first:
+      213: 6981099501190959504
+    second: Glossy Purple Planet App Icon_10
+  - first:
+      213: -8557137497714548880
+    second: Glossy Purple Planet App Icon_11
+  - first:
+      213: -919958871598299815
+    second: Glossy Purple Planet App Icon_12
+  - first:
+      213: -5345384927777206074
+    second: Glossy Purple Planet App Icon_13
+  - first:
+      213: -1614857198489055544
+    second: Glossy Purple Planet App Icon_14
+  - first:
+      213: -4490325738172457528
+    second: Glossy Purple Planet App Icon_15
+  - first:
+      213: -1681463823336945347
+    second: Glossy Purple Planet App Icon_16
+  - first:
+      213: -6437890873320423866
+    second: Glossy Purple Planet App Icon_17
+  - first:
+      213: -2555491533556831340
+    second: Glossy Purple Planet App Icon_18
+  - first:
+      213: -7785139576329907586
+    second: Glossy Purple Planet App Icon_19
+  - first:
+      213: 3224287605216959788
+    second: Glossy Purple Planet App Icon_20
+  - first:
+      213: -5433905587051542587
+    second: Glossy Purple Planet App Icon_21
+  - first:
+      213: 8194715798041454646
+    second: Glossy Purple Planet App Icon_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1173
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2873b5171a6c130800000000000000
+      internalID: 3586731661480919729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_1
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1174
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab478c64e528280800000000000000
+      internalID: -9042561443702719942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1245
+        height: 1166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994841507d2b5e980800000000000000
+      internalID: -8510199284273740647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1107
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaab3a87576a592b0800000000000000
+      internalID: -5578369539963110738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1139
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010a7b66fdac9da00800000000000000
+      internalID: 781879071175319568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1141
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e53d828764fd6c0800000000000000
+      internalID: -4116494052498383216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1133
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf910e635b161780800000000000000
+      internalID: -8712746383959810116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_7
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 129
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3f56ece7c25a80800000000000000
+      internalID: -8479495328094012011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 97
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c078ed4b71e0b9b0800000000000000
+      internalID: -5066301661087502142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 75
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae397ec522f1d10800000000000000
+      internalID: 2098433733795506811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 61
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d4264209d1e060800000000000000
+      internalID: 6981099501190959504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_11
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9c8298c0fe3980800000000000000
+      internalID: -8557137497714548880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 45
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9550a6ac746ab33f0800000000000000
+      internalID: -919958871598299815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 37
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0dc10bab061d5b0800000000000000
+      internalID: -5345384927777206074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 55
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec3111fefd699e0800000000000000
+      internalID: -1614857198489055544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 48
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cddf6a28882fa1c0800000000000000
+      internalID: -4490325738172457528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 49
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39c45bbf8d3aa8e0800000000000000
+      internalID: -1681463823336945347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb1013c5408a6a0800000000000000
+      internalID: -6437890873320423866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 47
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba3d36df1198cd0800000000000000
+      internalID: -2555491533556831340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 41
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7255028dc0a5f390800000000000000
+      internalID: -7785139576329907586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_20
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dd6a27e78febc20800000000000000
+      internalID: 3224287605216959788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 21
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c748cc98a3e694b0800000000000000
+      internalID: -5433905587051542587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Planet App Icon_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 29
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ea81d99a79b170800000000000000
+      internalID: 8194715798041454646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Purple Planet App Icon_0: 3586731661480919729
+      Glossy Purple Planet App Icon_1: -9042561443702719942
+      Glossy Purple Planet App Icon_10: 6981099501190959504
+      Glossy Purple Planet App Icon_11: -8557137497714548880
+      Glossy Purple Planet App Icon_12: -919958871598299815
+      Glossy Purple Planet App Icon_13: -5345384927777206074
+      Glossy Purple Planet App Icon_14: -1614857198489055544
+      Glossy Purple Planet App Icon_15: -4490325738172457528
+      Glossy Purple Planet App Icon_16: -1681463823336945347
+      Glossy Purple Planet App Icon_17: -6437890873320423866
+      Glossy Purple Planet App Icon_18: -2555491533556831340
+      Glossy Purple Planet App Icon_19: -7785139576329907586
+      Glossy Purple Planet App Icon_2: -8510199284273740647
+      Glossy Purple Planet App Icon_20: 3224287605216959788
+      Glossy Purple Planet App Icon_21: -5433905587051542587
+      Glossy Purple Planet App Icon_22: 8194715798041454646
+      Glossy Purple Planet App Icon_3: -5578369539963110738
+      Glossy Purple Planet App Icon_4: 781879071175319568
+      Glossy Purple Planet App Icon_5: -4116494052498383216
+      Glossy Purple Planet App Icon_6: -8712746383959810116
+      Glossy Purple Planet App Icon_7: -8479495328094012011
+      Glossy Purple Planet App Icon_8: -5066301661087502142
+      Glossy Purple Planet App Icon_9: 2098433733795506811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
