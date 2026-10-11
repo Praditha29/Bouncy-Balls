@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 598f1e455ec9f4d4c99a1e29ad1ef5c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5713091549397300899
+    second: AnimGoldSpecialBall_0
+  - first:
+      213: 4456976541685033989
+    second: AnimGoldSpecialBall_1
+  - first:
+      213: 305141229571927350
+    second: AnimGoldSpecialBall_2
+  - first:
+      213: 6012227508709612615
+    second: AnimGoldSpecialBall_3
+  - first:
+      213: 6558847907120841888
+    second: AnimGoldSpecialBall_4
+  - first:
+      213: -5446944925865394607
+    second: AnimGoldSpecialBall_5
+  - first:
+      213: -8507204356827807564
+    second: AnimGoldSpecialBall_6
+  - first:
+      213: 6552942182344797825
+    second: AnimGoldSpecialBall_7
+  - first:
+      213: 2880641140283774802
+    second: AnimGoldSpecialBall_8
+  - first:
+      213: -2642542176649244975
+    second: AnimGoldSpecialBall_9
+  - first:
+      213: -1350577557071008410
+    second: AnimGoldSpecialBall_10
+  - first:
+      213: -7211918330298852957
+    second: AnimGoldSpecialBall_11
+  - first:
+      213: -909211388961566175
+    second: AnimGoldSpecialBall_12
+  - first:
+      213: 8777149268718913330
+    second: AnimGoldSpecialBall_13
+  - first:
+      213: -8112139253808654131
+    second: AnimGoldSpecialBall_14
+  - first:
+      213: 2823969199527061341
+    second: AnimGoldSpecialBall_15
+  - first:
+      213: -3966554682727669601
+    second: AnimGoldSpecialBall_16
+  - first:
+      213: 7400616603152917694
+    second: AnimGoldSpecialBall_17
+  - first:
+      213: 4088121454734755493
+    second: AnimGoldSpecialBall_18
+  - first:
+      213: 6933499072471246624
+    second: AnimGoldSpecialBall_19
+  - first:
+      213: 2718415902371745622
+    second: AnimGoldSpecialBall_20
+  - first:
+      213: 8106396957947534421
+    second: AnimGoldSpecialBall_21
+  - first:
+      213: -487315090762671710
+    second: AnimGoldSpecialBall_22
+  - first:
+      213: 5031914258528125429
+    second: AnimGoldSpecialBall_23
+  - first:
+      213: -3169876112420417510
+    second: AnimGoldSpecialBall_24
+  - first:
+      213: 4670740854898481180
+    second: AnimGoldSpecialBall_25
+  - first:
+      213: -2014456517718633672
+    second: AnimGoldSpecialBall_26
+  - first:
+      213: -88430890628652556
+    second: AnimGoldSpecialBall_27
+  - first:
+      213: 2193331984068198896
+    second: AnimGoldSpecialBall_28
+  - first:
+      213: 3584510652563663050
+    second: AnimGoldSpecialBall_29
+  - first:
+      213: -8526644360381866104
+    second: AnimGoldSpecialBall_30
+  - first:
+      213: 4112153064267988981
+    second: AnimGoldSpecialBall_31
+  - first:
+      213: 7913176222979621822
+    second: AnimGoldSpecialBall_32
+  - first:
+      213: -7291202780296771394
+    second: AnimGoldSpecialBall_33
+  - first:
+      213: -1115456395286507497
+    second: AnimGoldSpecialBall_34
+  - first:
+      213: -8525839366780564485
+    second: AnimGoldSpecialBall_35
+  - first:
+      213: 1315485765078915034
+    second: AnimGoldSpecialBall_36
+  - first:
+      213: 868168617954474407
+    second: AnimGoldSpecialBall_37
+  - first:
+      213: -3753781898832379707
+    second: AnimGoldSpecialBall_38
+  - first:
+      213: 3314611777481104509
+    second: AnimGoldSpecialBall_39
+  - first:
+      213: 7298334544905623946
+    second: AnimGoldSpecialBall_40
+  - first:
+      213: 7946294606546035973
+    second: AnimGoldSpecialBall_41
+  - first:
+      213: 3614526432819925247
+    second: AnimGoldSpecialBall_42
+  - first:
+      213: -2662891529314698860
+    second: AnimGoldSpecialBall_43
+  - first:
+      213: 2034747052071845280
+    second: AnimGoldSpecialBall_44
+  - first:
+      213: 8146173739571238385
+    second: AnimGoldSpecialBall_45
+  - first:
+      213: 1729808406178579000
+    second: AnimGoldSpecialBall_46
+  - first:
+      213: 9064726974898241020
+    second: AnimGoldSpecialBall_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 340
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6bc13be7af84f40800000000000000
+      internalID: 5713091549397300899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 340
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca263fc8c5add30800000000000000
+      internalID: 4456976541685033989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de5f2e4541c3400800000000000000
+      internalID: 305141229571927350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 340
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cd775a019bf6350800000000000000
+      internalID: 6012227508709612615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 340
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a480c7db65b50b50800000000000000
+      internalID: 6558847907120841888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 341
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3da6f2709864b0800000000000000
+      internalID: -5446944925865394607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 340
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b08f97e5b650f980800000000000000
+      internalID: -8507204356827807564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 340
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea554223ab0fa50800000000000000
+      internalID: 6552942182344797825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 269
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2579df3dad71af720800000000000000
+      internalID: 2880641140283774802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de85d024edc35bd0800000000000000
+      internalID: -2642542176649244975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 270
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dea251ed8c14de0800000000000000
+      internalID: -1350577557071008410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 270
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9986d2d7e1aeb90800000000000000
+      internalID: -7211918330298852957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122d4371f05d163f0800000000000000
+      internalID: -909211388961566175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 269
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237029ea1c2bec970800000000000000
+      internalID: 8777149268718913330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89b302454eb6f80800000000000000
+      internalID: -8112139253808654131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 269
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5764726601c03720800000000000000
+      internalID: 2823969199527061341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90ead12887f3f8c0800000000000000
+      internalID: -3966554682727669601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a9c5279544b660800000000000000
+      internalID: 7400616603152917694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 198
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64e14adccebb830800000000000000
+      internalID: 4088121454734755493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0272621dbacb83060800000000000000
+      internalID: 6933499072471246624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f04a44cd0c9b520800000000000000
+      internalID: 2718415902371745622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 197
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c15ce6515bf7070800000000000000
+      internalID: 8106396957947534421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 198
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a95761c185bc39f0800000000000000
+      internalID: -487315090762671710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 198
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1cacf9b53f4d540800000000000000
+      internalID: 5031914258528125429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a105f2178765204d0800000000000000
+      internalID: -3169876112420417510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d0269f0ec1d040800000000000000
+      internalID: 4670740854898481180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83319ed58763b04e0800000000000000
+      internalID: -2014456517718633672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f168e0d294d5cef0800000000000000
+      internalID: -88430890628652556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 128
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f143e891d7407e10800000000000000
+      internalID: 2193331984068198896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac829ab627dbeb130800000000000000
+      internalID: 3584510652563663050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd95d51264ba980800000000000000
+      internalID: -8526644360381866104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 131
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3ab1cc6d411930800000000000000
+      internalID: 4112153064267988981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb384c759df31dd60800000000000000
+      internalID: 7913176222979621822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80217a3b170da90800000000000000
+      internalID: -7291202780296771394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109284815a1580f0800000000000000
+      internalID: -1115456395286507497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc00b84422ea980800000000000000
+      internalID: -8525839366780564485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79c96655b814210800000000000000
+      internalID: 1315485765078915034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9715e12ca5c0c00800000000000000
+      internalID: 868168617954474407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 63
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00ecb5043e7ebc0800000000000000
+      internalID: -3753781898832379707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 63
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c561d99dddffd20800000000000000
+      internalID: 3314611777481104509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89df01b994e84560800000000000000
+      internalID: 7298334544905623946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50567c7e7d8e64e60800000000000000
+      internalID: 7946294606546035973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0dd7bd3a0692230800000000000000
+      internalID: 3614526432819925247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499fccf33428b0bd0800000000000000
+      internalID: -2662891529314698860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adf38ec9afdc3c10800000000000000
+      internalID: 2034747052071845280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f552c91bd50d0170800000000000000
+      internalID: 8146173739571238385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83242cb9493810810800000000000000
+      internalID: 1729808406178579000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGoldSpecialBall_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdf5bc18216ccd70800000000000000
+      internalID: 9064726974898241020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnimGoldSpecialBall_0: 5713091549397300899
+      AnimGoldSpecialBall_1: 4456976541685033989
+      AnimGoldSpecialBall_10: -1350577557071008410
+      AnimGoldSpecialBall_11: -7211918330298852957
+      AnimGoldSpecialBall_12: -909211388961566175
+      AnimGoldSpecialBall_13: 8777149268718913330
+      AnimGoldSpecialBall_14: -8112139253808654131
+      AnimGoldSpecialBall_15: 2823969199527061341
+      AnimGoldSpecialBall_16: -3966554682727669601
+      AnimGoldSpecialBall_17: 7400616603152917694
+      AnimGoldSpecialBall_18: 4088121454734755493
+      AnimGoldSpecialBall_19: 6933499072471246624
+      AnimGoldSpecialBall_2: 305141229571927350
+      AnimGoldSpecialBall_20: 2718415902371745622
+      AnimGoldSpecialBall_21: 8106396957947534421
+      AnimGoldSpecialBall_22: -487315090762671710
+      AnimGoldSpecialBall_23: 5031914258528125429
+      AnimGoldSpecialBall_24: -3169876112420417510
+      AnimGoldSpecialBall_25: 4670740854898481180
+      AnimGoldSpecialBall_26: -2014456517718633672
+      AnimGoldSpecialBall_27: -88430890628652556
+      AnimGoldSpecialBall_28: 2193331984068198896
+      AnimGoldSpecialBall_29: 3584510652563663050
+      AnimGoldSpecialBall_3: 6012227508709612615
+      AnimGoldSpecialBall_30: -8526644360381866104
+      AnimGoldSpecialBall_31: 4112153064267988981
+      AnimGoldSpecialBall_32: 7913176222979621822
+      AnimGoldSpecialBall_33: -7291202780296771394
+      AnimGoldSpecialBall_34: -1115456395286507497
+      AnimGoldSpecialBall_35: -8525839366780564485
+      AnimGoldSpecialBall_36: 1315485765078915034
+      AnimGoldSpecialBall_37: 868168617954474407
+      AnimGoldSpecialBall_38: -3753781898832379707
+      AnimGoldSpecialBall_39: 3314611777481104509
+      AnimGoldSpecialBall_4: 6558847907120841888
+      AnimGoldSpecialBall_40: 7298334544905623946
+      AnimGoldSpecialBall_41: 7946294606546035973
+      AnimGoldSpecialBall_42: 3614526432819925247
+      AnimGoldSpecialBall_43: -2662891529314698860
+      AnimGoldSpecialBall_44: 2034747052071845280
+      AnimGoldSpecialBall_45: 8146173739571238385
+      AnimGoldSpecialBall_46: 1729808406178579000
+      AnimGoldSpecialBall_47: 9064726974898241020
+      AnimGoldSpecialBall_5: -5446944925865394607
+      AnimGoldSpecialBall_6: -8507204356827807564
+      AnimGoldSpecialBall_7: 6552942182344797825
+      AnimGoldSpecialBall_8: 2880641140283774802
+      AnimGoldSpecialBall_9: -2642542176649244975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

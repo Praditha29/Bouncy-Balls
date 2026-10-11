@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: cc2b44845e6146d499386b9a1d873ee9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 888821848494942213
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_0
+  - first:
+      213: -1630288309745993284
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_1
+  - first:
+      213: 4717878450275401351
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_2
+  - first:
+      213: -3137675560665986000
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_3
+  - first:
+      213: -8682316713157818081
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_4
+  - first:
+      213: 7543312817511990231
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_5
+  - first:
+      213: -7115127092108319314
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_6
+  - first:
+      213: -3343975827899491239
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_7
+  - first:
+      213: -8487233221637368006
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_8
+  - first:
+      213: 798975875603526789
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_9
+  - first:
+      213: 4168297577474722752
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_10
+  - first:
+      213: 5679716916756892800
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_11
+  - first:
+      213: 9101539692902398023
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_12
+  - first:
+      213: -1447486688879985302
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_13
+  - first:
+      213: -3335270118002873911
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_14
+  - first:
+      213: -3516268437378621957
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_15
+  - first:
+      213: 4151996288722114516
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_16
+  - first:
+      213: 689850051077414742
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_17
+  - first:
+      213: -5652583038077242270
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_18
+  - first:
+      213: 6105753866213110127
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_19
+  - first:
+      213: -5329398300316066040
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_20
+  - first:
+      213: 4546106896773971079
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_21
+  - first:
+      213: 4065839607484847634
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_22
+  - first:
+      213: 4348328645784904308
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_23
+  - first:
+      213: -4800327559337398752
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_24
+  - first:
+      213: 6420426896361913729
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_25
+  - first:
+      213: 4886486771190706540
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_26
+  - first:
+      213: 6485223559288586804
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_27
+  - first:
+      213: 4332319633430414787
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_28
+  - first:
+      213: -6888145729878236601
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_29
+  - first:
+      213: -7552136878014473862
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_30
+  - first:
+      213: -2013778203370734477
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_31
+  - first:
+      213: -7109303997361092092
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_32
+  - first:
+      213: -883710307238198407
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_33
+  - first:
+      213: -1695933702732283410
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_34
+  - first:
+      213: 2825936726231412500
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_35
+  - first:
+      213: 3149067569168593130
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_36
+  - first:
+      213: 5833323004229450467
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_37
+  - first:
+      213: -1123683789733664879
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_38
+  - first:
+      213: -508932731654200142
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_39
+  - first:
+      213: -5613847401846805392
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_40
+  - first:
+      213: 2162833930692992858
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_41
+  - first:
+      213: -1977301396676109462
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_42
+  - first:
+      213: -3086682230023316748
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_43
+  - first:
+      213: 8205357538553634487
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_44
+  - first:
+      213: 1244130772833449027
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_45
+  - first:
+      213: 4998453159449524279
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_46
+  - first:
+      213: -5379624891496300159
+    second: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a52413cab55c00800000000000000
+      internalID: 888821848494942213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 340
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb93e108b6d0069e0800000000000000
+      internalID: -1630288309745993284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb2224475497140800000000000000
+      internalID: 4717878450275401351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 340
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c4412a3bcb474d0800000000000000
+      internalID: -3137675560665986000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 340
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198ac443f6328780800000000000000
+      internalID: -8682316713157818081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 340
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d304759a0b3fa860800000000000000
+      internalID: 7543312817511990231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 340
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea520277b9df14d90800000000000000
+      internalID: -7115127092108319314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 340
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cde80a3bfc791d0800000000000000
+      internalID: -3343975827899491239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37196a2a5a473a80800000000000000
+      internalID: -8487233221637368006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 269
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58474716358861b00800000000000000
+      internalID: 798975875603526789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8087ef84c8d930800000000000000
+      internalID: 4168297577474722752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c4210817862de40800000000000000
+      internalID: 5679716916756892800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748b090f02a2f4e70800000000000000
+      internalID: 9101539692902398023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 269
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db33c868e79ebe0800000000000000
+      internalID: -1447486688879985302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a67aaf7db6b1d0800000000000000
+      internalID: -3335270118002873911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 269
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd11277c74b33fc0800000000000000
+      internalID: -3516268437378621957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7950a50aade9930800000000000000
+      internalID: 4151996288722114516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 198
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f11ca67f6d29900800000000000000
+      internalID: 689850051077414742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 198
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f100fcadfd81b0800000000000000
+      internalID: -5652583038077242270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61b999aacefbb450800000000000000
+      internalID: 6105753866213110127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f17137b7c2a06b0800000000000000
+      internalID: -5329398300316066040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c7a25e224071f30800000000000000
+      internalID: 4546106896773971079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 198
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21619ddc493cc6830800000000000000
+      internalID: 4065839607484847634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 198
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4722aaa6ddd585c30800000000000000
+      internalID: 4348328645784904308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 131
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2d2c948fc16db0800000000000000
+      internalID: -4800327559337398752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df300de30f91950800000000000000
+      internalID: 6420426896361913729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b77424d940d340800000000000000
+      internalID: 4886486771190706540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432046c8774200a50800000000000000
+      internalID: 6485223559288586804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c50214c0cd7f1c30800000000000000
+      internalID: 4332319633430414787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 128
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742eb7124f36860a0800000000000000
+      internalID: -6888145729878236601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 129
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d1dab58b613790800000000000000
+      internalID: -7552136878014473862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 131
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cb9abb46f9d04e0800000000000000
+      internalID: -2013778203370734477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a070d5eada65d90800000000000000
+      internalID: -7109303997361092092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 64
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97347bc582e6cb3f0800000000000000
+      internalID: -883710307238198407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee187066845d678e0800000000000000
+      internalID: -1695933702732283410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe0c4ea7eb73720800000000000000
+      internalID: 2825936726231412500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03ff9054cb3bb20800000000000000
+      internalID: 3149067569168593130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 63
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf537bd5024f050800000000000000
+      internalID: 5833323004229450467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 64
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976f09fb8fd760f0800000000000000
+      internalID: -1123683789733664879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 64
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ae238068efe8f0800000000000000
+      internalID: -508932731654200142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cebad088b9712b0800000000000000
+      internalID: -5613847401846805392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1e13300ee30e10800000000000000
+      internalID: 2162833930692992858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b9c3d1bd63f84e0800000000000000
+      internalID: -1977301396676109462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa13f0add6e925d0800000000000000
+      internalID: -3086682230023316748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be109c15394fd170800000000000000
+      internalID: 8205357538553634487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344bed0a85a044110800000000000000
+      internalID: 1244130772833449027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738fa636aa21e5540800000000000000
+      internalID: 4998453159449524279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1818385e9abb755b0800000000000000
+      internalID: -5379624891496300159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_0: 888821848494942213
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_1: -1630288309745993284
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_10: 4168297577474722752
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_11: 5679716916756892800
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_12: 9101539692902398023
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_13: -1447486688879985302
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_14: -3335270118002873911
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_15: -3516268437378621957
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_16: 4151996288722114516
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_17: 689850051077414742
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_18: -5652583038077242270
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_19: 6105753866213110127
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_2: 4717878450275401351
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_20: -5329398300316066040
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_21: 4546106896773971079
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_22: 4065839607484847634
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_23: 4348328645784904308
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_24: -4800327559337398752
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_25: 6420426896361913729
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_26: 4886486771190706540
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_27: 6485223559288586804
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_28: 4332319633430414787
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_29: -6888145729878236601
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_3: -3137675560665986000
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_30: -7552136878014473862
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_31: -2013778203370734477
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_32: -7109303997361092092
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_33: -883710307238198407
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_34: -1695933702732283410
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_35: 2825936726231412500
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_36: 3149067569168593130
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_37: 5833323004229450467
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_38: -1123683789733664879
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_39: -508932731654200142
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_4: -8682316713157818081
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_40: -5613847401846805392
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_41: 2162833930692992858
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_42: -1977301396676109462
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_43: -3086682230023316748
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_44: 8205357538553634487
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_45: 1244130772833449027
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_46: 4998453159449524279
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_47: -5379624891496300159
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_5: 7543312817511990231
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_6: -7115127092108319314
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_7: -3343975827899491239
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_8: -8487233221637368006
+      Rotating_Glowing_Blue_Orb_Sprite_Sheet-removebg-preview_9: 798975875603526789
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

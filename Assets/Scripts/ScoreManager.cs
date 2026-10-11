@@ -60,12 +60,12 @@ public class ScoreManager : MonoBehaviour
     {
         if (scoreText != null)
         {
-            scoreText.text = "Score: " + score;
+            scoreText.text = score.ToString();
         }
 
         if (highScoreText != null)
         {
-            highScoreText.text = "High Score: " + highScore;
+            highScoreText.text = highScore.ToString();
         }
     }
 }

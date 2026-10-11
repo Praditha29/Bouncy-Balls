@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7647615752394655998}
   - component: {fileID: 8967754956520199051}
   - component: {fileID: 5491908124736807319}
+  - component: {fileID: 7841412661810010360}
   m_Layer: 3
   m_Name: BlueSpecialBall
   m_TagString: Untagged
@@ -29,8 +30,8 @@ Transform:
   m_GameObject: {fileID: 3038764717407659537}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5622, y: 0.1561, z: 0}
-  m_LocalScale: {x: 0.6934696, y: 0.65549207, z: 1}
+  m_LocalPosition: {x: -1.65, y: 0.2338, z: 0}
+  m_LocalScale: {x: 1.0803094, y: 1.0701711, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -84,7 +85,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: f47b377ff04c6954c864ac62581b1b4a, type: 3}
+  m_Sprite: {fileID: 888821848494942213, guid: cc2b44845e6146d499386b9a1d873ee9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -128,8 +129,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.0024936048}
-  m_Radius: 0.42050192
+  m_Offset: {x: 0.01631658, y: 0.015693808}
+  m_Radius: 0.29035443
 --- !u!50 &8967754956520199051
 Rigidbody2D:
   serializedVersion: 5
@@ -170,3 +171,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BlueSpecialBall
   playableArea: {fileID: 8572381533804185066, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
+--- !u!95 &7841412661810010360
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3038764717407659537}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0609d5f817ecfae48a0ee4fdf2e22574, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

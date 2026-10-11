@@ -49,6 +49,18 @@ public class CollectibleSpawner : MonoBehaviour
     [SerializeField]
     private int minimumBallsForSpecial = 40;
 
+    private int redYellowSpawnUnlockAt = 0;
+    private bool redYellowSpawnCooldown = false;
+
+    //For Boundary Warning
+    [SerializeField] private BoundaryWarning boundaryWarning;
+
+    [SerializeField] private int warningBallCount = 120;
+    [SerializeField] private int gameOverBallCount = 130;
+
+    private bool warningTriggered = false;
+    private bool gameOverTriggered = false;
+
     private void Awake()
     {
         gameOver = FindFirstObjectByType<GameOver>();
@@ -76,6 +88,31 @@ public class CollectibleSpawner : MonoBehaviour
         ballsPopped++;
     }
 
+    private int GetTotalBallCount()
+    {
+        int ballLayer = LayerMask.NameToLayer("Ball");
+
+        if (ballLayer == -1)
+        {
+            Debug.LogError("A layer named Ball was not found!");
+            return 0;
+        }
+
+        Transform[] allObjects =
+            FindObjectsByType<Transform>(FindObjectsSortMode.None);
+
+        int count = 0;
+
+        foreach (Transform obj in allObjects)
+        {
+            if (obj.gameObject.layer == ballLayer)
+            {
+                count++;
+            }
+        }
+
+        return count;
+    }
     private int GetExtraSpawnDelay()
     {
         if (scoreManager == null)
@@ -160,56 +197,127 @@ public class CollectibleSpawner : MonoBehaviour
         // BLUE SPECIAL BALL
         // -----------------------------
         
-        if (spawned < amount && CountBalls<BlueBall>() >= minimumBallsForSpecial)
+        if (spawned < amount && ballsPopped >= nextBlueSpecialBallAt && CountBalls<BlueSpecialBall>() == 0 && 
+            CountBalls<BlueBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(blueSpecialBallPrefab);
             spawned++;
+            SetNextBlueSpecialBallCount();
         }
 
         // -----------------------------
         // GOLD SPECIAL BALL
         // -----------------------------
 
-        if (spawned < amount && CountBalls<GoldBall>() >= minimumBallsForSpecial)
+        if (spawned < amount && ballsPopped >= nextGoldSpecialBallAt && CountBalls<GoldSpecialBall>() == 0
+            && CountBalls<GoldBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(goldSpecialBallPrefab);
             spawned++;
+            SetNextGoldSpecialBallCount();
         }
 
         // -----------------------------
         // GREEN SPECIAL BALL
         // -----------------------------
 
-        if (spawned < amount && CountBalls<GreenBall>() >= minimumBallsForSpecial)
+        if (spawned < amount && ballsPopped >= nextGreenSpecialBallAt && CountBalls<GreenSpecialBall>() == 0
+            && CountBalls<GreenBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(greenSpecialBallPrefab);
             spawned++;
+            SetNextGreenSpecialBallCount();
         }
+
 
         // -----------------------------
         // PURPLE SPECIAL BALL
         // -----------------------------
 
-        if (spawned < amount && CountBalls<PurpleBall>() >= minimumBallsForSpecial)
+        if (spawned < amount && ballsPopped >= nextPurpleSpecialBallAt && CountBalls<PurpleSpecialBall>() == 0
+            && CountBalls<PurpleBall>() >= minimumBallsForSpecial)
         {
             SpawnObject(purpleSpecialBallPrefab);
             spawned++;
+            SetNextPurpleSpecialBallCount();
         }
 
         // -----------------------------
         // NORMAL BALLS
         // -----------------------------
 
+        // NORMAL BALLS
+        // NORMAL BALLS
         while (spawned < amount)
         {
-            int index = Random.Range(0, collectablePrefabs.Length);
+            GameObject prefab = GetAllowedNormalPrefab();
 
-            SpawnObject(collectablePrefabs[index]);
+            // No eligible prefab was found
+            if (prefab == null)
+                break;
 
+            SpawnObject(prefab);
             spawned++;
         }
     }
 
+    private GameObject GetAllowedNormalPrefab()
+    {
+        bool allowRedYellow = CanSpawnRedYellow();
+
+        // Build a list of eligible prefabs
+        System.Collections.Generic.List<GameObject> allowedPrefabs =
+            new System.Collections.Generic.List<GameObject>();
+
+        foreach (GameObject prefab in collectablePrefabs)
+        {
+            if (prefab == null)
+                continue;
+
+            bool isRedOrYellow =
+                prefab.GetComponent<RedBall>() != null ||
+                prefab.GetComponent<YellowBall>() != null;
+
+            if (!allowRedYellow && isRedOrYellow)
+                continue;
+
+            allowedPrefabs.Add(prefab);
+        }
+
+        if (allowedPrefabs.Count == 0)
+        {
+            Debug.LogWarning("No eligible normal ball prefabs available!");
+            return null;
+        }
+
+        return allowedPrefabs[Random.Range(0, allowedPrefabs.Count)];
+    }
+
+    public void SpecialBallUsed()
+    {
+        redYellowSpawnCooldown = true;
+        redYellowSpawnUnlockAt = ballsPopped + 30;
+
+        Debug.Log(
+            "Special ball used! Red/Yellow spawning paused until " +
+            redYellowSpawnUnlockAt + " total pops. Current pops: " +
+            ballsPopped
+        );
+    }
+
+    private bool CanSpawnRedYellow()
+    {
+        if (!redYellowSpawnCooldown)
+            return true;
+
+        if (ballsPopped >= redYellowSpawnUnlockAt)
+        {
+            redYellowSpawnCooldown = false;
+            return true;
+        }
+
+        return false;
+    }
 
     private void SpawnObject(GameObject prefab)
     {
@@ -290,4 +398,46 @@ public class CollectibleSpawner : MonoBehaviour
 
         return balls.Length;
     }
+
+
+
+    private void Update()
+    {
+        if (gameOver != null && gameOver.IsGameOver())
+            return;
+
+        int totalBalls = GetTotalBallCount();
+
+        // Flash whenever the count crosses above 120 again
+        if (totalBalls > warningBallCount && !warningTriggered)
+        {
+            warningTriggered = true;
+
+            if (boundaryWarning != null)
+            {
+                boundaryWarning.FlashRedTwice();
+            }
+
+            Debug.Log("Boundary warning triggered at " + totalBalls + " balls.");
+        }
+
+        // Allow another warning after the count drops to 120 or below
+        if (totalBalls <= warningBallCount)
+        {
+            warningTriggered = false;
+        }
+
+        // Game over at 130 balls
+        if (!gameOverTriggered && totalBalls >= gameOverBallCount)
+        {
+            gameOverTriggered = true;
+
+            if (gameOver != null)
+            {
+                gameOver.Lost();
+            }
+        }
+    }
+
+
 }

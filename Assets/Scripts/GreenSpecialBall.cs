@@ -8,10 +8,13 @@ public class GreenSpecialBall : MonoBehaviour
 
     private Collider2D specialBallCollider;
     private GameOver gameOver;
+    private CollectibleSpawner _collectableSpawner;
+
 
 
     private void Awake()
     {
+        _collectableSpawner = FindFirstObjectByType<CollectibleSpawner>();
         specialBallCollider = GetComponent<Collider2D>();
         gameOver = FindFirstObjectByType<GameOver>();
     }
@@ -61,6 +64,11 @@ public class GreenSpecialBall : MonoBehaviour
         foreach (GreenBall greenBall in greenBalls)
         {
             Debug.Log("Removing: " + greenBall.gameObject.name);
+
+            if (_collectableSpawner != null)
+            {
+                _collectableSpawner.SpecialBallUsed();
+            }
 
             Destroy(greenBall.gameObject);
         }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5717414611406341862}
   - component: {fileID: 736061546940164706}
   - component: {fileID: 3735350918882129588}
+  - component: {fileID: 1448602403894072204}
   m_Layer: 3
   m_Name: GreenSpecialBall
   m_TagString: Untagged
@@ -29,8 +30,8 @@ Transform:
   m_GameObject: {fileID: 9061622886260685161}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.564, y: -0.07, z: 0}
-  m_LocalScale: {x: 0.8164048, y: 0.7871349, z: 1}
+  m_LocalPosition: {x: -0.5263, y: -0.0189, z: 0}
+  m_LocalScale: {x: 1.0351106, y: 1.0761924, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -84,12 +85,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: ffca118e1290b7b4b9e71a44495363d8, type: 3}
+  m_Sprite: {fileID: 3642052009989372361, guid: 1f679345fddc5244ebe207fc6f639db4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.8333333, y: 0.8333333}
+  m_Size: {x: 0.68, y: 0.64}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -128,8 +129,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.009715521}
-  m_Radius: 0.35109648
+  m_Offset: {x: 0.020457584, y: -0.003794243}
+  m_Radius: 0.27721772
 --- !u!50 &736061546940164706
 Rigidbody2D:
   serializedVersion: 5
@@ -170,3 +171,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GreenSpecialBall
   playableArea: {fileID: 8572381533804185066, guid: 0947d5f44d1b22f41a6ef7d071b60fe6, type: 3}
+--- !u!95 &1448602403894072204
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9061622886260685161}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6bfa54b5805be9f4d9fcc6ea0d9c7370, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 1f679345fddc5244ebe207fc6f639db4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3642052009989372361
+    second: AnimGreenSpecialBall_0
+  - first:
+      213: 7537687844223619970
+    second: AnimGreenSpecialBall_1
+  - first:
+      213: -2444716806541121226
+    second: AnimGreenSpecialBall_2
+  - first:
+      213: -5743977716967998867
+    second: AnimGreenSpecialBall_3
+  - first:
+      213: 5505047290150959822
+    second: AnimGreenSpecialBall_4
+  - first:
+      213: -1487619365916166741
+    second: AnimGreenSpecialBall_5
+  - first:
+      213: -3092939019292297698
+    second: AnimGreenSpecialBall_6
+  - first:
+      213: 8919133431098454894
+    second: AnimGreenSpecialBall_7
+  - first:
+      213: -810743491552337100
+    second: AnimGreenSpecialBall_8
+  - first:
+      213: -3586778119202697690
+    second: AnimGreenSpecialBall_9
+  - first:
+      213: 3274612023844157591
+    second: AnimGreenSpecialBall_10
+  - first:
+      213: 3650426575226472231
+    second: AnimGreenSpecialBall_11
+  - first:
+      213: 8863384499041483541
+    second: AnimGreenSpecialBall_12
+  - first:
+      213: 5459052225058454057
+    second: AnimGreenSpecialBall_13
+  - first:
+      213: 8688803087819272009
+    second: AnimGreenSpecialBall_14
+  - first:
+      213: 3482713974765427120
+    second: AnimGreenSpecialBall_15
+  - first:
+      213: -1042682525932970827
+    second: AnimGreenSpecialBall_16
+  - first:
+      213: 4447170738839718691
+    second: AnimGreenSpecialBall_17
+  - first:
+      213: 1542208916382564567
+    second: AnimGreenSpecialBall_18
+  - first:
+      213: -651984543848374099
+    second: AnimGreenSpecialBall_19
+  - first:
+      213: -918518937549217872
+    second: AnimGreenSpecialBall_20
+  - first:
+      213: 5995563794149957816
+    second: AnimGreenSpecialBall_21
+  - first:
+      213: -7841957752711321749
+    second: AnimGreenSpecialBall_22
+  - first:
+      213: -3774076492843106734
+    second: AnimGreenSpecialBall_23
+  - first:
+      213: -4335807095133986574
+    second: AnimGreenSpecialBall_24
+  - first:
+      213: -6475458990349942288
+    second: AnimGreenSpecialBall_25
+  - first:
+      213: -4127571577074555302
+    second: AnimGreenSpecialBall_26
+  - first:
+      213: 3478994291720440826
+    second: AnimGreenSpecialBall_27
+  - first:
+      213: -3295757643643647067
+    second: AnimGreenSpecialBall_28
+  - first:
+      213: 6750829259694640995
+    second: AnimGreenSpecialBall_29
+  - first:
+      213: -3361400626303275722
+    second: AnimGreenSpecialBall_30
+  - first:
+      213: 5251277903395810310
+    second: AnimGreenSpecialBall_31
+  - first:
+      213: -7773710581934126777
+    second: AnimGreenSpecialBall_32
+  - first:
+      213: 8020679253481351977
+    second: AnimGreenSpecialBall_33
+  - first:
+      213: 2323985476379444988
+    second: AnimGreenSpecialBall_34
+  - first:
+      213: 8820645550202439461
+    second: AnimGreenSpecialBall_35
+  - first:
+      213: -1305043836039442508
+    second: AnimGreenSpecialBall_36
+  - first:
+      213: -470106592965509488
+    second: AnimGreenSpecialBall_37
+  - first:
+      213: 6369088499585736503
+    second: AnimGreenSpecialBall_38
+  - first:
+      213: 851629179517005979
+    second: AnimGreenSpecialBall_39
+  - first:
+      213: 4381590924586447773
+    second: AnimGreenSpecialBall_40
+  - first:
+      213: 3704471693101654991
+    second: AnimGreenSpecialBall_41
+  - first:
+      213: 982280254438919446
+    second: AnimGreenSpecialBall_42
+  - first:
+      213: 4347698526505207258
+    second: AnimGreenSpecialBall_43
+  - first:
+      213: -3094900550735140864
+    second: AnimGreenSpecialBall_44
+  - first:
+      213: -8570349572285652819
+    second: AnimGreenSpecialBall_45
+  - first:
+      213: 8949947368921792425
+    second: AnimGreenSpecialBall_46
+  - first:
+      213: -822200197815500596
+    second: AnimGreenSpecialBall_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 340
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9f9e4b10b2b8230800000000000000
+      internalID: 3642052009989372361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 340
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2839abe682f3b9860800000000000000
+      internalID: 7537687844223619970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63960b1640f921ed0800000000000000
+      internalID: -2444716806541121226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 340
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6afc5603ba4940b0800000000000000
+      internalID: -5743977716967998867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 340
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabc29e75bd56c40800000000000000
+      internalID: 5505047290150959822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 340
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53395811aea5be0800000000000000
+      internalID: -1487619365916166741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 340
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16332b595ca315d0800000000000000
+      internalID: -3092939019292297698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_7
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 340
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e633fe8999027cb70800000000000000
+      internalID: 8919133431098454894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 269
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43320160719afb4f0800000000000000
+      internalID: -810743491552337100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e87ccdd44393ec0800000000000000
+      internalID: -3586778119202697690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798347a3942c17d20800000000000000
+      internalID: 3274612023844157591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727050f11abe8a230800000000000000
+      internalID: 3650426575226472231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b321ddd31110b70800000000000000
+      internalID: 8863384499041483541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 269
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a3aec431372cb40800000000000000
+      internalID: 5459052225058454057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 269
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe8c48f54d49870800000000000000
+      internalID: 8688803087819272009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 269
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b99e2868e5155030800000000000000
+      internalID: 3482713974765427120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc124c54c5a781f0800000000000000
+      internalID: -1042682525932970827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 198
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b8d00993687bd30800000000000000
+      internalID: 4447170738839718691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d04c66a6d6076510800000000000000
+      internalID: 1542208916382564567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 197
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06fd0038fa3f6f0800000000000000
+      internalID: -651984543848374099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfd8ef84e3c043f0800000000000000
+      internalID: -918518937549217872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 197
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b060824185843350800000000000000
+      internalID: 5995563794149957816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_22
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 197
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67650ee8f4cb2390800000000000000
+      internalID: -7841957752711321749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 197
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e3fe8fc69cf9bc0800000000000000
+      internalID: -3774076492843106734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0abe74b6e14d3c0800000000000000
+      internalID: -4335807095133986574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 129
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f105925b5c8226a0800000000000000
+      internalID: -6475458990349942288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56e87bf48be7b6c0800000000000000
+      internalID: -4127571577074555302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_27
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 129
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcb9530eed74030800000000000000
+      internalID: 3478994291720440826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab87d082ed1342d0800000000000000
+      internalID: -3295757643643647067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 128
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f896bb173cfad50800000000000000
+      internalID: 6750829259694640995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 129
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dea6990f7e951d0800000000000000
+      internalID: -3361400626303275722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_31
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 130
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce3c04e6940e840800000000000000
+      internalID: 5251277903395810310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7490f11a96b3e1490800000000000000
+      internalID: -7773710581934126777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be911294d2f4f60800000000000000
+      internalID: 8020679253481351977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf683ce4a74704020800000000000000
+      internalID: 2323985476379444988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 63
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274275e46a396a70800000000000000
+      internalID: 8820645550202439461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_36
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4e88ab8d83ede0800000000000000
+      internalID: -1305043836039442508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 62
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb8bf5b88d979f0800000000000000
+      internalID: -470106592965509488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 63
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f55d8de3c836850800000000000000
+      internalID: 6369088499585736503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 63
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f7750a3891db00800000000000000
+      internalID: 851629179517005979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93fc033bb98ecc30800000000000000
+      internalID: 4381590924586447773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc360d3b06de86330800000000000000
+      internalID: 3704471693101654991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_42
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d46b3efa2c1ad00800000000000000
+      internalID: 982280254438919446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad505d656c0265c30800000000000000
+      internalID: 4347698526505207258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008654ab854bc05d0800000000000000
+      internalID: -3094900550735140864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da02efeb870001980800000000000000
+      internalID: -8570349572285652819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af760396b9943c70800000000000000
+      internalID: 8949947368921792425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimGreenSpecialBall_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc083fab645f694f0800000000000000
+      internalID: -822200197815500596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AnimGreenSpecialBall_0: 3642052009989372361
+      AnimGreenSpecialBall_1: 7537687844223619970
+      AnimGreenSpecialBall_10: 3274612023844157591
+      AnimGreenSpecialBall_11: 3650426575226472231
+      AnimGreenSpecialBall_12: 8863384499041483541
+      AnimGreenSpecialBall_13: 5459052225058454057
+      AnimGreenSpecialBall_14: 8688803087819272009
+      AnimGreenSpecialBall_15: 3482713974765427120
+      AnimGreenSpecialBall_16: -1042682525932970827
+      AnimGreenSpecialBall_17: 4447170738839718691
+      AnimGreenSpecialBall_18: 1542208916382564567
+      AnimGreenSpecialBall_19: -651984543848374099
+      AnimGreenSpecialBall_2: -2444716806541121226
+      AnimGreenSpecialBall_20: -918518937549217872
+      AnimGreenSpecialBall_21: 5995563794149957816
+      AnimGreenSpecialBall_22: -7841957752711321749
+      AnimGreenSpecialBall_23: -3774076492843106734
+      AnimGreenSpecialBall_24: -4335807095133986574
+      AnimGreenSpecialBall_25: -6475458990349942288
+      AnimGreenSpecialBall_26: -4127571577074555302
+      AnimGreenSpecialBall_27: 3478994291720440826
+      AnimGreenSpecialBall_28: -3295757643643647067
+      AnimGreenSpecialBall_29: 6750829259694640995
+      AnimGreenSpecialBall_3: -5743977716967998867
+      AnimGreenSpecialBall_30: -3361400626303275722
+      AnimGreenSpecialBall_31: 5251277903395810310
+      AnimGreenSpecialBall_32: -7773710581934126777
+      AnimGreenSpecialBall_33: 8020679253481351977
+      AnimGreenSpecialBall_34: 2323985476379444988
+      AnimGreenSpecialBall_35: 8820645550202439461
+      AnimGreenSpecialBall_36: -1305043836039442508
+      AnimGreenSpecialBall_37: -470106592965509488
+      AnimGreenSpecialBall_38: 6369088499585736503
+      AnimGreenSpecialBall_39: 851629179517005979
+      AnimGreenSpecialBall_4: 5505047290150959822
+      AnimGreenSpecialBall_40: 4381590924586447773
+      AnimGreenSpecialBall_41: 3704471693101654991
+      AnimGreenSpecialBall_42: 982280254438919446
+      AnimGreenSpecialBall_43: 4347698526505207258
+      AnimGreenSpecialBall_44: -3094900550735140864
+      AnimGreenSpecialBall_45: -8570349572285652819
+      AnimGreenSpecialBall_46: 8949947368921792425
+      AnimGreenSpecialBall_47: -822200197815500596
+      AnimGreenSpecialBall_5: -1487619365916166741
+      AnimGreenSpecialBall_6: -3092939019292297698
+      AnimGreenSpecialBall_7: 8919133431098454894
+      AnimGreenSpecialBall_8: -810743491552337100
+      AnimGreenSpecialBall_9: -3586778119202697690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
