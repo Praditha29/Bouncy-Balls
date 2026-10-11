@@ -98,8 +98,7 @@ public class CollectibleSpawner : MonoBehaviour
             return 0;
         }
 
-        Transform[] allObjects =
-            FindObjectsByType<Transform>(FindObjectsSortMode.None);
+        Transform[] allObjects = FindObjectsByType<Transform>(FindObjectsSortMode.None);
 
         int count = 0;
 
@@ -146,7 +145,6 @@ public class CollectibleSpawner : MonoBehaviour
 
         int spawned = 0;
 
-
         // -----------------------------
         // BOMB
         // -----------------------------
@@ -161,7 +159,6 @@ public class CollectibleSpawner : MonoBehaviour
 
             SetNextBombCount();
         }
-
 
         // -----------------------------
         // SPIKE BALL
@@ -266,17 +263,14 @@ public class CollectibleSpawner : MonoBehaviour
         bool allowRedYellow = CanSpawnRedYellow();
 
         // Build a list of eligible prefabs
-        System.Collections.Generic.List<GameObject> allowedPrefabs =
-            new System.Collections.Generic.List<GameObject>();
+        System.Collections.Generic.List<GameObject> allowedPrefabs = new System.Collections.Generic.List<GameObject>();
 
         foreach (GameObject prefab in collectablePrefabs)
         {
             if (prefab == null)
                 continue;
 
-            bool isRedOrYellow =
-                prefab.GetComponent<RedBall>() != null ||
-                prefab.GetComponent<YellowBall>() != null;
+            bool isRedOrYellow = prefab.GetComponent<RedBall>() != null || prefab.GetComponent<YellowBall>() != null;
 
             if (!allowRedYellow && isRedOrYellow)
                 continue;
@@ -299,9 +293,7 @@ public class CollectibleSpawner : MonoBehaviour
         redYellowSpawnUnlockAt = ballsPopped + 30;
 
         Debug.Log(
-            "Special ball used! Red/Yellow spawning paused until " +
-            redYellowSpawnUnlockAt + " total pops. Current pops: " +
-            ballsPopped
+            "Special ball used! Red/Yellow spawning paused until " + redYellowSpawnUnlockAt + " total pops. Current pops: " + ballsPopped
         );
     }
 
@@ -391,10 +383,7 @@ public class CollectibleSpawner : MonoBehaviour
 
     private int CountBalls<T>() where T : MonoBehaviour
     {
-        T[] balls = FindObjectsByType<T>(
-            FindObjectsInactive.Exclude,
-            FindObjectsSortMode.None
-        );
+        T[] balls = FindObjectsByType<T>(FindObjectsInactive.Exclude, FindObjectsSortMode.None);
 
         return balls.Length;
     }
