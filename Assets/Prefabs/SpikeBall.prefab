@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7043502348488355842}
   - component: {fileID: 265779950093398313}
   - component: {fileID: -5734051735886838545}
+  - component: {fileID: 5147073209877892779}
   m_Layer: 3
   m_Name: SpikeBall
   m_TagString: Untagged
@@ -169,3 +170,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dc384458b97c1c4aaec1eef2610b1d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpikeBall
+--- !u!114 &5147073209877892779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356685690600554442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6784b265df2ebb42bb5e9de6c797a0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpecialBallTutorialTrigger
+  tutorialId: Spike

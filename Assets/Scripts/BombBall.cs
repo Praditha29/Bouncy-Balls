@@ -16,6 +16,7 @@ public class BombBall : MonoBehaviour
     private GameOver gameOver;
 
     private Animator bombAnimator;
+
     private void Awake()
     {
         bombCollider = GetComponent<Collider2D>();

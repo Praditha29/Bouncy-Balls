@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 4029268723137480471}
   - component: {fileID: 730366597476009573}
   - component: {fileID: 6736676864706892731}
+  - component: {fileID: 7072841797671385166}
   m_Layer: 3
   m_Name: BombBall
   m_TagString: Untagged
@@ -174,6 +175,7 @@ MonoBehaviour:
   ballLayer:
     serializedVersion: 2
     m_Bits: 8
+  explosionDuration: 0.3
 --- !u!95 &6736676864706892731
 Animator:
   serializedVersion: 7
@@ -196,3 +198,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7072841797671385166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 978656866365478725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6784b265df2ebb42bb5e9de6c797a0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpecialBallTutorialTrigger
+  tutorialId: Bomb

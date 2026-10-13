@@ -61,6 +61,7 @@ public class CollectibleSpawner : MonoBehaviour
     private bool warningTriggered = false;
     private bool gameOverTriggered = false;
 
+
     private void Awake()
     {
         gameOver = FindFirstObjectByType<GameOver>();
@@ -154,7 +155,7 @@ public class CollectibleSpawner : MonoBehaviour
             spawned < amount)
         {
             SpawnObject(bombPrefab);
-
+           
             spawned++;
 
             SetNextBombCount();
