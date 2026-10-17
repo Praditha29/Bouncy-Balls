@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 52c7a3347d47f684c99443f254a855d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1264677051331225068
+    second: Glossy Purple Coins Reward Panel_0
+  - first:
+      213: 5718292022841113599
+    second: Glossy Purple Coins Reward Panel_1
+  - first:
+      213: -6476730938399213830
+    second: Glossy Purple Coins Reward Panel_2
+  - first:
+      213: -7805363975778259879
+    second: Glossy Purple Coins Reward Panel_3
+  - first:
+      213: 4086431824120219607
+    second: Glossy Purple Coins Reward Panel_4
+  - first:
+      213: 3611569331031729953
+    second: Glossy Purple Coins Reward Panel_5
+  - first:
+      213: -2679357079335912032
+    second: Glossy Purple Coins Reward Panel_6
+  - first:
+      213: -7390470562165933258
+    second: Glossy Purple Coins Reward Panel_7
+  - first:
+      213: -1337775812708314102
+    second: Glossy Purple Coins Reward Panel_8
+  - first:
+      213: -8381576535067699580
+    second: Glossy Purple Coins Reward Panel_9
+  - first:
+      213: 4831950916860777319
+    second: Glossy Purple Coins Reward Panel_10
+  - first:
+      213: 7949022294314615255
+    second: Glossy Purple Coins Reward Panel_11
+  - first:
+      213: -2681149935177705656
+    second: Glossy Purple Coins Reward Panel_12
+  - first:
+      213: 3988366365499561573
+    second: Glossy Purple Coins Reward Panel_13
+  - first:
+      213: 7773150758956396329
+    second: Glossy Purple Coins Reward Panel_14
+  - first:
+      213: 3020776125848264487
+    second: Glossy Purple Coins Reward Panel_15
+  - first:
+      213: 7732176749418227239
+    second: Glossy Purple Coins Reward Panel_16
+  - first:
+      213: 8980537367295850051
+    second: Glossy Purple Coins Reward Panel_17
+  - first:
+      213: 2428692779761326738
+    second: Glossy Purple Coins Reward Panel_18
+  - first:
+      213: 7946096091679996014
+    second: Glossy Purple Coins Reward Panel_19
+  - first:
+      213: 6908233028948785993
+    second: Glossy Purple Coins Reward Panel_20
+  - first:
+      213: 4340293505215599362
+    second: Glossy Purple Coins Reward Panel_21
+  - first:
+      213: -5007601483280764387
+    second: Glossy Purple Coins Reward Panel_22
+  - first:
+      213: -3264216249660384166
+    second: Glossy Purple Coins Reward Panel_23
+  - first:
+      213: 3548476070887876053
+    second: Glossy Purple Coins Reward Panel_24
+  - first:
+      213: -4246389333482978980
+    second: Glossy Purple Coins Reward Panel_25
+  - first:
+      213: 4631127420183379438
+    second: Glossy Purple Coins Reward Panel_26
+  - first:
+      213: -8980955049757197505
+    second: Glossy Purple Coins Reward Panel_27
+  - first:
+      213: -1135900487780912872
+    second: Glossy Purple Coins Reward Panel_28
+  - first:
+      213: -8668564893383640296
+    second: Glossy Purple Coins Reward Panel_29
+  - first:
+      213: -6227264780134711131
+    second: Glossy Purple Coins Reward Panel_30
+  - first:
+      213: -5853961474759192063
+    second: Glossy Purple Coins Reward Panel_31
+  - first:
+      213: 5975398983013200932
+    second: Glossy Purple Coins Reward Panel_32
+  - first:
+      213: -2094947357101599892
+    second: Glossy Purple Coins Reward Panel_33
+  - first:
+      213: -9049925212939053599
+    second: Glossy Purple Coins Reward Panel_34
+  - first:
+      213: -9038336978519220929
+    second: Glossy Purple Coins Reward Panel_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a50df1ce6f27ee0800000000000000
+      internalID: -1264677051331225068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbf4674c447b5f40800000000000000
+      internalID: 5718292022841113599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1455
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6bee6d6870e16a0800000000000000
+      internalID: -6476730938399213830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2b1191d6cda390800000000000000
+      internalID: -7805363975778259879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 119
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7898bd71ce5b830800000000000000
+      internalID: 4086431824120219607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 127
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12767d1fb2fde1230800000000000000
+      internalID: 3611569331031729953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 109
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad31c3aee201dad0800000000000000
+      internalID: -2679357079335912032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_7
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 128
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b3e1b1e26cf6990800000000000000
+      internalID: -7390470562165933258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 119
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0459667cf34f6de0800000000000000
+      internalID: -1337775812708314102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 111
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4865a818c88aeab80800000000000000
+      internalID: -8381576535067699580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631c9312c98e0340800000000000000
+      internalID: 4831950916860777319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 51
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1884439a9905e60800000000000000
+      internalID: 7949022294314615255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847db2cd654aacad0800000000000000
+      internalID: -2681149935177705656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 95
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56697b10416895730800000000000000
+      internalID: 3988366365499561573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f672d6e67cfdb60800000000000000
+      internalID: 7773150758956396329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f9a27b1e3fbe920800000000000000
+      internalID: 3020776125848264487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_16
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726ab9969c53e4b60800000000000000
+      internalID: 7732176749418227239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3467ac5972741ac70800000000000000
+      internalID: 8980537367295850051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_18
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 95
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ada36273374b120800000000000000
+      internalID: 2428692779761326738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_19
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 93
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b4bf8b44364e60800000000000000
+      internalID: 7946096091679996014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 83
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bfc14a659fedf50800000000000000
+      internalID: 6908233028948785993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 83
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039f4772f1db3c30800000000000000
+      internalID: 4340293505215599362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12b45c7bfc618ab0800000000000000
+      internalID: -5007601483280764387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 63
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5fe09d9c23b2d0800000000000000
+      internalID: -3264216249660384166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 87
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5ee339f28be3130800000000000000
+      internalID: 3548476070887876053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 58
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514db7466bc115c0800000000000000
+      internalID: -4246389333482978980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 68
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf9951ad1154040800000000000000
+      internalID: 4631127420183379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_27
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 63
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bb87327fc3d5380800000000000000
+      internalID: -8980955049757197505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 63
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81130ad46887c30f0800000000000000
+      internalID: -1135900487780912872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_29
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 49
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b3271582213b780800000000000000
+      internalID: -8668564893383640296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a005c90daf4499a0800000000000000
+      internalID: -6227264780134711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 39
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1021828ed0d82cea0800000000000000
+      internalID: -5853961474759192063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 45
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4247bbd47b1ece250800000000000000
+      internalID: 5975398983013200932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 44
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d0dc6a704de2e0800000000000000
+      internalID: -2094947357101599892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59ae6a7f4386280800000000000000
+      internalID: -9049925212939053599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Purple Coins Reward Panel_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d951bb760619280800000000000000
+      internalID: -9038336978519220929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Purple Coins Reward Panel_0: -1264677051331225068
+      Glossy Purple Coins Reward Panel_1: 5718292022841113599
+      Glossy Purple Coins Reward Panel_10: 4831950916860777319
+      Glossy Purple Coins Reward Panel_11: 7949022294314615255
+      Glossy Purple Coins Reward Panel_12: -2681149935177705656
+      Glossy Purple Coins Reward Panel_13: 3988366365499561573
+      Glossy Purple Coins Reward Panel_14: 7773150758956396329
+      Glossy Purple Coins Reward Panel_15: 3020776125848264487
+      Glossy Purple Coins Reward Panel_16: 7732176749418227239
+      Glossy Purple Coins Reward Panel_17: 8980537367295850051
+      Glossy Purple Coins Reward Panel_18: 2428692779761326738
+      Glossy Purple Coins Reward Panel_19: 7946096091679996014
+      Glossy Purple Coins Reward Panel_2: -6476730938399213830
+      Glossy Purple Coins Reward Panel_20: 6908233028948785993
+      Glossy Purple Coins Reward Panel_21: 4340293505215599362
+      Glossy Purple Coins Reward Panel_22: -5007601483280764387
+      Glossy Purple Coins Reward Panel_23: -3264216249660384166
+      Glossy Purple Coins Reward Panel_24: 3548476070887876053
+      Glossy Purple Coins Reward Panel_25: -4246389333482978980
+      Glossy Purple Coins Reward Panel_26: 4631127420183379438
+      Glossy Purple Coins Reward Panel_27: -8980955049757197505
+      Glossy Purple Coins Reward Panel_28: -1135900487780912872
+      Glossy Purple Coins Reward Panel_29: -8668564893383640296
+      Glossy Purple Coins Reward Panel_3: -7805363975778259879
+      Glossy Purple Coins Reward Panel_30: -6227264780134711131
+      Glossy Purple Coins Reward Panel_31: -5853961474759192063
+      Glossy Purple Coins Reward Panel_32: 5975398983013200932
+      Glossy Purple Coins Reward Panel_33: -2094947357101599892
+      Glossy Purple Coins Reward Panel_34: -9049925212939053599
+      Glossy Purple Coins Reward Panel_35: -9038336978519220929
+      Glossy Purple Coins Reward Panel_4: 4086431824120219607
+      Glossy Purple Coins Reward Panel_5: 3611569331031729953
+      Glossy Purple Coins Reward Panel_6: -2679357079335912032
+      Glossy Purple Coins Reward Panel_7: -7390470562165933258
+      Glossy Purple Coins Reward Panel_8: -1337775812708314102
+      Glossy Purple Coins Reward Panel_9: -8381576535067699580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

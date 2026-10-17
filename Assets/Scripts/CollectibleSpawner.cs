@@ -80,6 +80,11 @@ public class CollectibleSpawner : MonoBehaviour
         SetNextPurpleSpecialBallCount();
     }
 
+    public int GetBallsPopped()
+    {
+        return ballsPopped;
+    }
+
 
     public void BallPopped()
     {
@@ -426,6 +431,59 @@ public class CollectibleSpawner : MonoBehaviour
             }
         }
     }
+
+
+    public void PrepareForRevive()
+    {
+        int targetCount = Mathf.Min(
+            warningBallCount,
+            gameOverBallCount - 1
+        );
+
+        int ballLayer = LayerMask.NameToLayer("Ball");
+
+        if (ballLayer == -1)
+        {
+            Debug.LogError("Layer named Ball was not found.");
+            return;
+        }
+
+        Transform[] allObjects =
+            FindObjectsByType<Transform>(
+                FindObjectsSortMode.None
+            );
+
+        System.Collections.Generic.List<GameObject> balls =
+            new System.Collections.Generic.List<GameObject>();
+
+        foreach (Transform obj in allObjects)
+        {
+            if (obj.gameObject.layer == ballLayer)
+            {
+                balls.Add(obj.gameObject);
+            }
+        }
+
+        // Remove excess balls so the game can resume safely.
+        while (balls.Count > targetCount)
+        {
+            int randomIndex = Random.Range(0, balls.Count);
+
+            GameObject ball = balls[randomIndex];
+            balls.RemoveAt(randomIndex);
+
+            if (ball != null)
+                Destroy(ball);
+        }
+
+        warningTriggered = false;
+        gameOverTriggered = false;
+
+        Debug.Log(
+            "Revive recovery complete. Excess balls cleared."
+        );
+    }
+
 
 
 }

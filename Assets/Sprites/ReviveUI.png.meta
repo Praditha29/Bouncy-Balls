@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 515402e888822fb409540c7ee4bd6475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1921758078669253261
+    second: ReviveUI_0
+  - first:
+      213: 2204681592708062502
+    second: ReviveUI_1
+  - first:
+      213: 7908548985387122504
+    second: ReviveUI_2
+  - first:
+      213: 944574160481006179
+    second: ReviveUI_3
+  - first:
+      213: 2996570090872408734
+    second: ReviveUI_4
+  - first:
+      213: -6122994975727024837
+    second: ReviveUI_5
+  - first:
+      213: -8051531487036662688
+    second: ReviveUI_6
+  - first:
+      213: -2887397218763455322
+    second: ReviveUI_7
+  - first:
+      213: -4397989244222444343
+    second: ReviveUI_8
+  - first:
+      213: 6883294990072651403
+    second: ReviveUI_9
+  - first:
+      213: -3773537302628085818
+    second: ReviveUI_10
+  - first:
+      213: 5820656901569395725
+    second: ReviveUI_11
+  - first:
+      213: -6935108816700998527
+    second: ReviveUI_12
+  - first:
+      213: 1349366298727330910
+    second: ReviveUI_13
+  - first:
+      213: -4592218655321867995
+    second: ReviveUI_14
+  - first:
+      213: -3245243340534388086
+    second: ReviveUI_15
+  - first:
+      213: 5680859807508698732
+    second: ReviveUI_16
+  - first:
+      213: -4741325778441504235
+    second: ReviveUI_17
+  - first:
+      213: -5431049151501460313
+    second: ReviveUI_18
+  - first:
+      213: -3089489331071172681
+    second: ReviveUI_19
+  - first:
+      213: -4373795677426907777
+    second: ReviveUI_20
+  - first:
+      213: -6914302231502822701
+    second: ReviveUI_21
+  - first:
+      213: -4194346704328325229
+    second: ReviveUI_22
+  - first:
+      213: -2551065415198536579
+    second: ReviveUI_23
+  - first:
+      213: -605740832177413420
+    second: ReviveUI_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReviveUI_0
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1383
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759ea8953b8455e0800000000000000
+      internalID: -1921758078669253261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1360
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd4384a3a989e10800000000000000
+      internalID: 2204681592708062502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1308
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f76c2a66fc0cd60800000000000000
+      internalID: 7908548985387122504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1334
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bb73c13dcb1d00800000000000000
+      internalID: 944574160481006179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1359
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a82030f94f59920800000000000000
+      internalID: 2996570090872408734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_5
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1351
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350a46b280c60ba0800000000000000
+      internalID: -6122994975727024837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1113
+        height: 1354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9e4975c6334090800000000000000
+      internalID: -8051531487036662688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1346
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a447221787ede7d0800000000000000
+      internalID: -2887397218763455322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_8
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1338
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce12c751437f2c0800000000000000
+      internalID: -4397989244222444343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_9
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1337
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e918ff250668f50800000000000000
+      internalID: 6883294990072651403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 55
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfca2af0d3b1abc0800000000000000
+      internalID: -3773537302628085818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3871ec9027c050800000000000000
+      internalID: 5820656901569395725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 7
+        width: 79
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7bd5664b81cf90800000000000000
+      internalID: -6935108816700998527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 27
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54b68bdf79e9b210800000000000000
+      internalID: 1349366298727330910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5293e9ea6792540c0800000000000000
+      internalID: -4592218655321867995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aeeb5306496f2d0800000000000000
+      internalID: -3245243340534388086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66995d75e776de40800000000000000
+      internalID: 5680859807508698732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a779b335d633eb0800000000000000
+      internalID: -4741325778441504235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9117529901a4b0800000000000000
+      internalID: -5431049151501460313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb42c72ddef15d0800000000000000
+      internalID: -3089489331071172681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7584d631082d43c0800000000000000
+      internalID: -4373795677426907777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2659501c67b00a0800000000000000
+      internalID: -6914302231502822701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 23
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970eaf15efaac5c0800000000000000
+      internalID: -4194346704328325229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c8e40658bc89cd0800000000000000
+      internalID: -2551065415198536579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReviveUI_24
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 7
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ad182ce9f797f0800000000000000
+      internalID: -605740832177413420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ReviveUI_0: -1921758078669253261
+      ReviveUI_1: 2204681592708062502
+      ReviveUI_10: -3773537302628085818
+      ReviveUI_11: 5820656901569395725
+      ReviveUI_12: -6935108816700998527
+      ReviveUI_13: 1349366298727330910
+      ReviveUI_14: -4592218655321867995
+      ReviveUI_15: -3245243340534388086
+      ReviveUI_16: 5680859807508698732
+      ReviveUI_17: -4741325778441504235
+      ReviveUI_18: -5431049151501460313
+      ReviveUI_19: -3089489331071172681
+      ReviveUI_2: 7908548985387122504
+      ReviveUI_20: -4373795677426907777
+      ReviveUI_21: -6914302231502822701
+      ReviveUI_22: -4194346704328325229
+      ReviveUI_23: -2551065415198536579
+      ReviveUI_24: -605740832177413420
+      ReviveUI_3: 944574160481006179
+      ReviveUI_4: 2996570090872408734
+      ReviveUI_5: -6122994975727024837
+      ReviveUI_6: -8051531487036662688
+      ReviveUI_7: -2887397218763455322
+      ReviveUI_8: -4397989244222444343
+      ReviveUI_9: 6883294990072651403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

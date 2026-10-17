@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: e2d8ad1b31dddaf46a8c946fbc526cff
+guid: 29ecd5e5d47da9b41875445c07914fad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9067230380973982907
-    second: GoldSpecialBall_0
+      213: -3509568612226630252
+    second: "Glossy \u201CNo, Thanks\u201D Button_0"
+  - first:
+      213: -4781061661470857283
+    second: "Glossy \u201CNo, Thanks\u201D Button_1"
+  - first:
+      213: 759427568736279515
+    second: "Glossy \u201CNo, Thanks\u201D Button_2"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 600
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GoldSpecialBall_0
+      name: "Glossy \u201CNo, Thanks\u201D Button_0"
       rect:
         serializedVersion: 2
-        x: 36
-        y: 43
-        width: 423
-        height: 425
+        x: 0
+        y: 45
+        width: 1675
+        height: 851
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb48592cdf545dd70800000000000000
-      internalID: 9067230380973982907
+      spriteID: 49dfe5111f18b4fc0800000000000000
+      internalID: -3509568612226630252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Glossy \u201CNo, Thanks\u201D Button_1"
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db76ac200c146adb0800000000000000
+      internalID: -4781061661470857283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Glossy \u201CNo, Thanks\u201D Button_2"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb1a23a9570a8a00800000000000000
+      internalID: 759427568736279515
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GoldSpecialBall_0: 9067230380973982907
+      "Glossy \u201CNo, Thanks\u201D Button_0": -3509568612226630252
+      "Glossy \u201CNo, Thanks\u201D Button_1": -4781061661470857283
+      "Glossy \u201CNo, Thanks\u201D Button_2": 759427568736279515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
